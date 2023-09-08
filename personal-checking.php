@@ -14,7 +14,7 @@
                             <div class="breadcrumb-content pt-100">
                                 <h1>PERSONAL CHECKINGS</h1>
                                 <ul>
-                                    <li><a href="index.html">home</a></li>
+                                    <li><a href="http://localhost/BANKY/index">home</a></li>
                                     <li>Personal Checkings</li>
                                 </ul>
                             </div>

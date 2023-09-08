@@ -84,6 +84,12 @@
                                     <li class="nav-item"><a class="nav-link" href="personal-checking">Personal Checkings</a></li>
                                     <li class="nav-item"><a class="nav-link" href="personal-savings">Personal Savings</a></li>
                                     <li class="nav-item"><a class="nav-link" href="Business Checking and Savings">Business Checkings and Savings</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Retail Banking">Retail Banking</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Rates">Rates</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Apply">Apply</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Card Services">Card Services</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Reorder Checks">Reorder Checks</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Switch Kit">Switch Kit</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown submenu">
@@ -108,15 +114,20 @@
                             <li class="nav-item dropdown submenu">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                                     aria-haspopup="true" aria-expanded="false">
-                                    Pages
+                                    Resources
                                 </a>
                                 <i class="arrow_carrot-down_alt2 mobile_dropdown_icon" aria-hidden="false"
                                     data-bs-toggle="dropdown"></i>
                                 <ul class="dropdown-menu ">
-                                    <li class="nav-item"><a class="nav-link" href="card.html">Cards</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="error.html">404 Error</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="First Take.php">First Take</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Online Banking.php">Online Banking</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Apply for Online Banking.php">Apply for Online Banking</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Mobile Wallet - Learn More.php">Mobile Wallet - Learn More</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Debit Card . ID Safety.php">Debit Card / ID Safety</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Additional Services.php">Additional Services</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Telephone Banking.php">Telephone Banking</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Security.php">Security</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Accessibilty.php">Accessibilty</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown submenu">

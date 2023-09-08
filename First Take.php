@@ -1,4 +1,4 @@
-<?php $page_title = "Business Checking and Savings"; require_once('components/header.php') ?>
+<?php $page_title = "Personal Checking"; require_once('components/header.php') ?>
     <!-- Header end-->
 
 
@@ -12,10 +12,10 @@
                     <div class="row">
                         <div class="col-lg-7 mx-auto">
                             <div class="breadcrumb-content pt-100">
-                                <h1>BUSINESS CHECKING AND SAVINGS</h1>
+                                <h1>FIRST TAKE</h1>
                                 <ul>
                                     <li><a href="http://localhost/BANKY/index">home</a></li>
-                                    <li>Business Checking and Savings</li>
+                                    <li>First Take</li>
                                 </ul>
                             </div>
                         </div>
@@ -31,7 +31,12 @@
         
                 <!-- Start writing code from here -->
 
-              <p></p>
+                <p></p>
+
+                    
+
+            </div>
+        </section>
         <!-- Content ends here -->
 
     </main>
