@@ -1,4 +1,4 @@
-    <?php $page_title = "Personal Checking"; require_once('components/header.php') ?>
+<?php $page_title = "Personal Savings"; require_once('components/header.php') ?>
     <!-- Header end-->
 
 
@@ -14,7 +14,7 @@
                             <div class="breadcrumb-content pt-100">
                                 <h1>PERSONAL CHECKINGS</h1>
                                 <ul>
-                                    <li><a href="index.html">home</a></li>
+                                    <!-- <li><a href="index.html">home</a></li> -->
                                     <li>Personal Checkings</li>
                                 </ul>
                             </div>
