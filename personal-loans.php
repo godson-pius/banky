@@ -30,26 +30,28 @@
             <div class="container">
         
                 <!-- Start writing code from here -->
-                <h3>Listening to you</h3>
+                <h3 class="font-bold">Listening to you</h3>
 
                 <p>"You first" means we begin by listening to your individual situation</p>
 
-                    <p class="mt-5">Perhaps you are shopping for a vehicle or another personal need. Call a lender at <a href="" class='color-blue'>info@swissapexprivateb.com</a> or come in to one of our branches. You may also complete a Jumpstart application to set-up a meeting with a lender at a branch near you.</p>
+                <div class="col-lg-4">
+                <img src="https://horizontrustco.com/media/box-3.png"   alt="">
+                </div>
 
-                        <h3 class="mt-5">Disclosure For All Interest Bearing Deposit Accounts</h3>
-                        <p>The following applies to all interest bearing accounts listed on this schedule of fees and services. The interest rate and Annual Percentage Yield (APY) are subject to change weekly.</p>
+                    <p class="mt-5">Perhaps you are shopping for a vehicle or another personal need. Call a lender at <a href="#" style="color: blue;">info@swissapexprivateb.com</a> or come in to one of our branches. You may also complete a Jumpstart application to set-up a meeting with a lender at a branch near you.</p>
+
+                        <p class="mt-5">If you're shopping for a vehicle then consider a bank loan instead of dealer financing. In the excitement of a purchase, the high-pressure of a dealership may lead one to overlook the fine-print of the financing. At SAPB you'll get a competitive interest rate, plus, if cash purchase rebates are available, then you can reap that benefit!</p>
+
+                        <h5 class="m-2">Other Lending Services.</h5>
 
                         <ul class="feature-list">
-                            <li>- Balance Computation Method: We use the daily balance method to calculate the interest on your account. This method applies the daily periodic rate to the principal in the account on each day. Interest is paid (credited) and compounded monthly, except for Regular Savings which is paid (credited) and compounded quarterly.</li>
 
-                            <li>- Accrual: Interest begins to accrue no later than the day we receive full credit for the deposit of non-cash items (for example checks).</li>
-
-                            <li>- All interest bearing accounts are variable rate accounts. We may change the rate at our discretion.</li>
-
-                            <li>- If you close your account before interest is credited, you will receive interest only if you notify us at the time of closing. If you do not tell us you are closing your account you will not receive your accrued interest.</li>
-
-                            <li>- Effect of Fees: fees may reduce earnings.</li>
+                        <li>-Master Card Credit Card</li>
+                        <li>-Vacatios</li>
+                        <li>-Educational Expenses</li>
                         </ul>
+
+                        <p>Let us help you with your future plans. To request a meeting with a loan officer at one of our branches, please complete our <a href="#" style="color: blue;">Jumpstart application</a></p>
 
 
             </div>
