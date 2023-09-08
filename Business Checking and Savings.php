@@ -1,4 +1,4 @@
-<?php $page_title = "Personal Checking"; require_once('components/header.php') ?>
+<?php $page_title = "Business Checking and Savings"; require_once('components/header.php') ?>
     <!-- Header end-->
 
 

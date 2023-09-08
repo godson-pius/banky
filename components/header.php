@@ -82,23 +82,26 @@
 
                                 <ul class="dropdown-menu">
                                     <li class="nav-item"><a class="nav-link" href="personal-checking">Personal Checkings</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="loan.html">Personal Savings</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="loan.html">Business Checkings and Savings</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="personal-savings">Personal Savings</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Business Checking and Savings">Business Checkings and Savings</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown submenu">
                                 <a class="nav-link dropdown-toggle" href="career.html" role="button"
                                     data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Job Pages
+                                    Lending Services
                                 </a>
                                 <i class="arrow_carrot-down_alt2 mobile_dropdown_icon" aria-hidden="false"
                                     data-bs-toggle="dropdown"></i>
                                 <ul class="dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="career.html">Career</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="job-post.html">Jobs</a>
-                                    </li>
-                                    <li class="nav-item"><a class="nav-link" href="job-application.html">Job
-                                            Application</a>
+                                    <li class="nav-item"><a class="nav-link" href="personal-loans">Personal Loans</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="job-post.html">Business Loans</a>
+                                    <li class="nav-item"><a class="nav-link" href="job-post.html">Mortgage Loans</a>
+                                    <li class="nav-item"><a class="nav-link" href="job-post.html">Agricultural Loans</a>
+                                    <li class="nav-item"><a class="nav-link" href="job-post.html">Loan Officers</a>
+                                    <li class="nav-item"><a class="nav-link" href="job-post.html">Credit Cards</a>
+                                    <li class="nav-item"><a class="nav-link" href="job-post.html">Credit Card LOGIN</a>
+                                    <li class="nav-item"><a class="nav-link" href="job-post.html">Apply</a>
                                     </li>
                                 </ul>
                             </li>
@@ -119,13 +122,19 @@
                             <li class="nav-item dropdown submenu">
                                 <a class="nav-link dropdown-toggle" href="blog.html" role="button"
                                     data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Blog
+                                    Get In Touch
                                 </a>
                                 <i class="arrow_carrot-down_alt2 mobile_dropdown_icon" aria-hidden="false"
                                     data-bs-toggle="dropdown"></i>
                                 <ul class="dropdown-menu ">
-                                    <li class="nav-item"><a class="nav-link" href="blog.html">Blog Listing</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="blog-details.html">Blog Details</a>
+                                    <li class="nav-item"><a class="nav-link" href="blog.html">About us</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="blog.html">Contact us</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="blog.html">Location and Hours</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="blog-details.html">Bank News</a>
+                                    <li class="nav-item"><a class="nav-link" href="blog-details.html">Careers</a>
+                                    <li class="nav-item"><a class="nav-link" href="blog-details.html">Lost or Stolen Cards</a>
+                                    <li class="nav-item"><a class="nav-link" href="blog-details.html">Forgot ONline Banking Password</a>
+                                    <li class="nav-item"><a class="nav-link" href="blog-details.html">Coronavirus Update</a>
                                     </li>
                                 </ul>
                             </li>
