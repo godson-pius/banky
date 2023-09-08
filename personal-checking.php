@@ -90,18 +90,18 @@
                         <h3 class="mt-5">Disclosure For All Interest Bearing Deposit Accounts</h3>
                         <p>The following applies to all interest bearing accounts listed on this schedule of fees and services. The interest rate and Annual Percentage Yield (APY) are subject to change weekly.</p>
 
-                        <ul class="feature-list">
-                            <li>- Balance Computation Method: We use the daily balance method to calculate the interest on your account. This method applies the daily periodic rate to the principal in the account on each day. Interest is paid (credited) and compounded monthly, except for Regular Savings which is paid (credited) and compounded quarterly.</li>
 
-                            <li>- Accrual: Interest begins to accrue no later than the day we receive full credit for the deposit of non-cash items (for example checks).</li>
+                        <ul class="list-unstyled feature-list wow fadeInUp mt-3" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                                    <li class="mt-2"> <i class="fas fa-check-circle"></i> Balance Computation Method: We use the daily balance method to calculate the interest on your account. This method applies the daily periodic rate to the principal in the account on each day. Interest is paid (credited) and compounded monthly, except for Regular Savings which is paid (credited) and compounded quarterly. </li>
 
-                            <li>- All interest bearing accounts are variable rate accounts. We may change the rate at our discretion.</li>
-
-                            <li>- If you close your account before interest is credited, you will receive interest only if you notify us at the time of closing. If you do not tell us you are closing your account you will not receive your accrued interest.</li>
-
-                            <li>- Effect of Fees: fees may reduce earnings.</li>
-                        </ul>
-
+                                    <li class="mt-2"> <i class="fas fa-check-circle"></i> IAccrual: Interest begins to accrue no later than the day we receive full credit for the deposit of non-cash items (for example checks).</li>
+                                   
+                                    <li class="mt-2"> <i class="fas fa-check-circle"></i> All interest bearing accounts are variable rate accounts. We may change the rate at our discretion.</li>
+                                    
+                                    <li class="mt-2"> <i class="fas fa-check-circle"></i> If you close your account before interest is credited, you will receive interest only if you notify us at the time of closing. If you do not tell us you are closing your account you will not receive your accrued interest.</li>
+                                    
+                                    <li class="mt-2"> <i class="fas fa-check-circle"></i> Effect of Fees: fees may reduce earnings.</li>
+                                </ul>
 
             </div>
         </section>
