@@ -101,10 +101,10 @@
                                     data-bs-toggle="dropdown"></i>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item"><a class="nav-link" href="personal-loans">Personal Loans</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="job-post.html">Business Loans</a>
-                                    <li class="nav-item"><a class="nav-link" href="job-post.html">Mortgage Loans</a>
-                                    <li class="nav-item"><a class="nav-link" href="job-post.html">Agricultural Loans</a>
-                                    <li class="nav-item"><a class="nav-link" href="job-post.html">Loan Officers</a>
+                                    <li class="nav-item"><a class="nav-link" href="Business-loans">Business Loans</a>
+                                    <li class="nav-item"><a class="nav-link" href="mortgage-loans">Mortgage Loans</a>
+                                    <li class="nav-item"><a class="nav-link" href="#">Agricultural Loans</a>
+                                    <li class="nav-item"><a class="nav-link" href="loan-officers">Loan Officers</a>
                                     <li class="nav-item"><a class="nav-link" href="job-post.html">Credit Cards</a>
                                     <li class="nav-item"><a class="nav-link" href="job-post.html">Credit Card LOGIN</a>
                                     <li class="nav-item"><a class="nav-link" href="job-post.html">Apply</a>

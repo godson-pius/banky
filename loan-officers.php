@@ -10,7 +10,7 @@
                     <div class="row">
                         <div class="col-lg-7 mx-auto">
                             <div class="breadcrumb-content pt-100">
-                                <h1>PERSONAL LOAN</h1>
+                                <h1>LOAN OFFICERS</h1>
                                 <ul>
                                     <!-- <li><a href="index.html">home</a></li> -->
                                     <li>Lending Services</li>
@@ -24,19 +24,7 @@
         <section class="section-base p-5 m-5">
             <div class="container">
 
-                <div class="title">
-                    <h2>Listening to you</h2>
-                </div>
-
-                <p>
-                    "You first" means we begin by listening to your individual situation.  
-                </p>
-
                 <div class="row row-fit-lg">  
-
-                    <div class="col-lg-4">
-                        <img src="https://horizontrustco.com/media/box-3.png" alt="" style=" width: 90%">
-                    </div>
 
                     <div class="col-lg-8">
                         <p>
