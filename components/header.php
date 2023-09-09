@@ -83,7 +83,7 @@
                                 <ul class="dropdown-menu">
                                     <li class="nav-item"><a class="nav-link" href="personal-checking">Personal Checkings</a></li>
                                     <li class="nav-item"><a class="nav-link" href="personal-savings">Personal Savings</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="Business Checking and Savings">Business Checkings and Savings</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Business Checking">Business Checkings and Savings</a></li>
                                     <li class="nav-item"><a class="nav-link" href="Retail Banking">Retail Banking</a></li>
                                     <li class="nav-item"><a class="nav-link" href="Rates">Rates</a></li>
                                     <li class="nav-item"><a class="nav-link" href="Apply">Apply</a></li>
