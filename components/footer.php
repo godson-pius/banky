@@ -62,11 +62,12 @@
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-6 text-end">
-                        <div class="f-social">
+                        <!-- <div class="f-social">
                             <a href="#"><i class="social_facebook"></i></a>
                             <a href="#"><i class="social_youtube"></i></a>
                             <a href="#"><i class="social_instagram"></i></a>
-                        </div>
+                        </div> -->
+                        <span class="text-white font-bold">Federal Deposit Insurance Corporation | <img src="img/fdic.png" width="30" alt=""> </span>
                     </div>
                 </div>
             </div>
