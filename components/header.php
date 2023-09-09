@@ -105,9 +105,9 @@
                                     <li class="nav-item"><a class="nav-link" href="mortgage-loans">Mortgage Loans</a>
                                     <li class="nav-item"><a class="nav-link" href="#">Agricultural Loans</a>
                                     <li class="nav-item"><a class="nav-link" href="loan-officers">Loan Officers</a>
-                                    <li class="nav-item"><a class="nav-link" href="job-post.html">Credit Cards</a>
+                                    <li class="nav-item"><a class="nav-link" href="credit-card">Credit Cards</a>
                                     <li class="nav-item"><a class="nav-link" href="job-post.html">Credit Card LOGIN</a>
-                                    <li class="nav-item"><a class="nav-link" href="job-post.html">Apply</a>
+                                    <li class="nav-item"><a class="nav-link" href="lending-service-apply">Apply</a>
                                     </li>
                                 </ul>
                             </li>
