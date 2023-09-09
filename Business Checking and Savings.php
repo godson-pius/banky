@@ -12,10 +12,10 @@
                     <div class="row">
                         <div class="col-lg-7 mx-auto">
                             <div class="breadcrumb-content pt-100">
-                                <h1>BUSINESS CHECKING AND SAVINGS</h1>
+                                <h1>PERSONAL CHECKINGS</h1>
                                 <ul>
-                                    <li><a href="http://localhost/BANKY/index">home</a></li>
-                                    <li>Business Checking and Savings</li>
+                                    <li><a href="index.html">home</a></li>
+                                    <li>Personal Checkings</li>
                                 </ul>
                             </div>
                         </div>
@@ -30,8 +30,10 @@
             <div class="container">
         
                 <!-- Start writing code from here -->
+        
 
-              <p></p>
+            </div>
+        </section>
         <!-- Content ends here -->
 
     </main>

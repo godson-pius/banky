@@ -13,7 +13,7 @@ require_once('components/header.php') ?>
         <div class="row">
           <div class="col-lg-7 mx-auto">
             <div class="breadcrumb-content pt-100">
-              <h1>PERSONAL SAVING<i class="mdi mdi-archive-settings-outline:"></i></h1>
+              <h1>PERSONAL SAVINGS</h1>
               <ul>
                 <li><a href="http://localhost/BANKY/index">home</a></li>
                 <li>Personal Savings</li>
@@ -31,20 +31,152 @@ require_once('components/header.php') ?>
     <div class="container">
 
       <!-- Start writing code from here -->
-      <h2>Earn, grow, save!</h2>
-      <div class="d-flex align-items-center">
-        <img src="https://www.horizontrustco.com/media/box-3.png" alt="">
-        <p
-          style="display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; line-height: 30px; font-size: 14px; font-weight: 500;">
-          You've earned it. Now watch it grow! These FDIC insured(Opens in a new Window) accounts pay competitive yields
-          on your savings. Your money will be available should you need it, and until then, your funds will be growing
-          and working here in our community.
-        </p>
-      </div>
+      <section class="bank-app-showcase-area bg-white">
+        <div class="container">
+          <h3 style="margin-bottom: 50px; font-weight: bold;">Earn, Grow, Save!</h3>
+          <div class="row align-items-center flex-row-reverse">
+            <div class="col-lg-6 offset-lg-1">
+              <div class="app-content">
+                <div class="section-title bank-section-title text-start">
+                  <p class="wow fadeInUp" data-wow-delay="0.9s"
+                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 80px;">
+                    You've earned it. Now watch it grow! These FDIC insured(Opens in a new Window) accounts pay
+                    competitive yields on your savings. Your money will be available should you need it, and until then,
+                    your funds will be growing and working here in our community.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-5">
+              <img class="wow fadeInUp mb-4" data-wow-delay="0.4s" src="https://www.horizontrustco.com/media/box-3.png"
+                alt="" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+            </div>
+            <h3 style="margin-bottom: 5%; margin-top: 5%; font-weight: bold;">Regular Savings</h3>
+            <p class="wow fadeInUp" data-wow-delay="0.9s"
+              style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 80px; margin-left: 20px">
+              Pay yourself as regularly as you are paid. Begin saving every payday in a Regular Savings Account at SAPB.
+              You
+              earn interest and enjoy convenient access to your funds. You can even ask us to transfer funds weekly or
+              monthly from your SAPB checking account to your savings account.
+            </p>
 
 
-    </div>
-    <!-- Content ends here -->
+            <ul class="list-unstyled feature-list wow fadeInUp" data-wow-delay="0.4s"
+              style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+              <li> <i class="fas fa-check-circle"></i> Click for our current interest rate or Annual Percentage
+                Yield(APY). </li>
+              <li> <i class="fas fa-check-circle"></i>Minimum balance required is only $10.</li>
+              <li> <i class="fas fa-check-circle"></i>$3 quarterly maintenance fee if balance falls below $10</li>
+              <li> <i class="fas fa-check-circle"></i>You may make up to 6 withdrawals per quarter at no charge</li>
+              <li> <i class="fas fa-check-circle"></i>There is a $1 fee per withdrawal in excess of 6 per quarter</li>
+              <li> <i class="fas fa-check-circle"></i>Interest paid quarterly on your quarterly account statement</li>
+              <li> <i class="fas fa-check-circle"></i>Minimum opening deposit of $10 required</li>
+            </ul>
+            <h3 style="margin-bottom: 5%; margin-top: 5%; font-weight: bold;">Working Money Account</h3>
+            <p class="wow fadeInUp" data-wow-delay="0.9s"
+              style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 80px; margin-left: 20px">
+              The Working Money Account is a competitive variable rate account with 4 tiered balance levels. A higher
+              account balance will earn a higher rate of interest. Click the link below to see our Working Money Account
+              tiers and their corresponding Interest Rate / Annual Percentage Yield.</p>
+
+            <ul class="list-unstyled feature-list wow fadeInUp" data-wow-delay="0.4s"
+              style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+              <li> <i class="fas fa-check-circle"></i>current interest rate or Annual Percentage
+                  Yield(APY)</a>our of the four balance tiers. </li>
+              <li> <i class="fas fa-check-circle"></i>Minimum deposit of $100 required to open this account.</li>
+              <li> <i class="fas fa-check-circle"></i>Minimum deposit of $5000 is required to earn the interest rate and
+                Annual Percentage Yield (APY).</li>
+              <li> <i class="fas fa-check-circle"></i>No monthly maintenance fee</li>
+              <li> <i class="fas fa-check-circle"></i>Interest will be credited each month on the last day of the
+                monthly statement cycle.</li>
+              <li> <i class="fas fa-check-circle"></i>You may make up to 6 transfers from this account per month.</li>
+              <li> <i class="fas fa-check-circle"></i>No per item fee for checks/debits.</li>
+            </ul>
+            <h3 style="margin-bottom: 5%; margin-top: 5% ; font-weight: bold;">Certificates of Deposits</h3>
+          <p class="wow fadeInUp" data-wow-delay="0.9s"
+            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 80px; margin-left: 20px">
+            If you expect safety and certain returns from an investment then a CD is for you. A Certificate of Deposit
+            (CD) pays a stated Annual Percentage Yield (APY). You may choose from various terms, from a few months up to
+            a few years. You can deposit as little as $1000 in a CD. You'll pay NO fees! Your money is insured by
+            FDIC(Opens in a new Window) (up to $250,000 per depositor). There is a penalty for early withdrawal. Partial
+            withdrawals may be taken and you will pay the penalty on just the amount withdrawn.
+          </p>
+
+          <p class="wow fadeInUp" data-wow-delay="0.9s"
+            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 80px; margin-left: 20px">
+            For complete details or to invest in a CD come in and see a Customer Service Representative at one of our
+            local branches or call info@horizontrustco.com.
+            View current rates and terms of CDs.</p>
+
+            <h3 style="margin-bottom: 5%; margin-top: 5%; font-weight: bold;">Individual Retirement Accounts</h3>
+            <p class="wow fadeInUp" data-wow-delay="0.9s"
+            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 80px; margin-left: 20px">
+            Plan for your retirement with an IRA from SAPB. Begin with as little as $100 and make regular deposits in order to reach your retirement goals. We offer Traditional, Roth and Educational (Coverdale) IRAs. At SAPB your IRA will be invested in a Certificate(s) of Deposit with your choice of various maturities. An IRA CD from Horizon Trustco is a solid investment.
+          </p>
+
+          <p class="wow fadeInUp" data-wow-delay="0.9s"
+            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 80px; margin-left: 20px">
+            You will not lose principal due to market fluctuations. Upon reaching retirement age, you may direct us to make disbursements to you from your IRA. With SAPB you pay NO FEES and your IRA CD is insured by FDIC(Opens in a new Window) (up to $250,000 per depositor). IRS rules apply so consult with your income tax advisor to confirm your specific situation. Then contact a Customer Service Representative to establish your IRA at SAPB.
+          </p>
+
+          <h3 style="margin-bottom: 5%; margin-top: 5%; font-weight: bold;">Health Savings Account (HSA)</h3>
+            <p class="wow fadeInUp" data-wow-delay="0.9s"
+            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 80px; margin-left: 20px">
+            A Health Savings Account (HSA) from Horizon Trustco Bank is a great way to save for your health care expenses while taking advantage of tax savings. If you qualify, then an HSA offers these benefits:
+          </p>
+          <ul class="list-unstyled feature-list wow fadeInUp" data-wow-delay="0.4s"
+              style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+              <li> <i class="fas fa-check-circle"></i>Tax-deductible contributions and distributions</li>
+              <li> <i class="fas fa-check-circle"></i>Owned by the individual</li>
+              <li> <i class="fas fa-check-circle"></i>No Monthly maintenance fees</li>
+              <li> <i class="fas fa-check-circle"></i>Carry unused balances forward from year to year and earn interest tax-free</li>
+              <li> <i class="fas fa-check-circle"></i>And much more...</li>
+            </ul>
+            <p class="wow fadeInUp",  data-wow-delay="0.9s"
+            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 80px; margin-left: 20px; margin-top: 5%">
+            Whether you qualify for an HSA, depends on your health insurance coverage. You must be covered under an HSA-eligible high deductible health plan (HDHP) to contribute to an HSA. An HDHP generally requires that you pay out of pocket for medical expenses incurred (excluding certain preventive care expenses) until your deductible is met. Plan coverage kicks in after that. You should check with your insurance provider or employer who can clarify the rules that define an HSA-eligible HDHP and to see if your health plan is HSA eligible. In addition to having HSA eligible HDHP coverage, you:
+          </p>
+          <ul class="list-unstyled feature-list wow fadeInUp" data-wow-delay="0.4s"
+              style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+              <li> <i class="fas fa-check-circle"></i>Cannot be covered by another health plan</li>
+              <li> <i class="fas fa-check-circle"></i>Cannot be enrolled in Medicare, and</li>
+              <li> <i class="fas fa-check-circle"></i>Cannot be eligible to be claimed as a dependent on another person’s tax return.</li>
+            </ul>
+
+            <p class="wow fadeInUp",  data-wow-delay="0.9s"
+            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 80px; margin-left: 20px; margin-top: 5%">
+            At Horizon Trustco Bank, a Health Savings Account may be opened with a minimum deposit of only $100. We offer both Self-only and Family coverage plans. A Free Instant Issue Debit MasterCard or personalized checks may be obtained so that you may make qualified payments from your HSA account directly to your health care providers.
+          </p>
+
+          <p class="wow fadeInUp",  data-wow-delay="0.9s"
+            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 0px; margin-left: 20px;">
+            For more information about an HSA account , please contact one of our Customer Service Representatives. You should also consult with your health care insurance provider to see if you qualify and with your tax professional for tax compliance advice. Horizon Trustco Bank does not sell health insurance directly to the public or provide advice on health coverage. Horizon Trustco Bank does not provide tax preparation service or advice on tax matters.
+          </p>
+
+          <p class="wow fadeInUp",  data-wow-delay="0.9s"
+            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 0px; margin-left: 20px; margin-top: 5%">
+            Our Patriot Act Notice has Important Information About Procedures for Opening a New Account
+          </p>
+
+          <h3 style="margin-bottom: 5%; margin-top: 5%; font-weight: bold;">Disclosure For All Interest Bearing Deposit Accounts</h3>
+          <p class="wow fadeInUp",  data-wow-delay="0.9s"
+            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 0px; margin-left: 20px; margin-top: ">
+            The following applies to all interest bearing accounts listed on this schedule of fees and services. The interest rate and *Annual Percentage Yield (*APY) are subject to change weekly
+          </p>
+
+          <ul class="list-unstyled feature-list wow fadeInUp" data-wow-delay="0.4s"
+              style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+              <li> <i class="fas fa-check-circle"></i>Balance Computation Method: We use the daily balance method to calculate the interest on your account. This method applies the daily periodic rate to the principal in the account on each day. Interest is paid (credited) and compounded monthly, except for Regular Savings which is paid (credited) and compounded quarterly.</li>
+              <li> <i class="fas fa-check-circle"></i>Accrual: Interest begins to accrue no later than the day we receive full credit for the deposit of non-cash items (for example checks)</li>
+              <li> <i class="fas fa-check-circle"></i>All interest bearing accounts are variable rate accounts. We may change the rate at our discretion.</li>
+              <li> <i class="fas fa-check-circle"></i>If you close your account before interest is credited, you will receive interest only if you notify us at the time of closing. If you do not tell us you are closing your account you will not receive your accrued interest.</li>
+              <li> <i class="fas fa-check-circle"></i>Effect of Fees: fees may reduce earnings.</li>
+            </ul>
+        </div>
+          </div>
+      </section>
+
+
+      <!-- Content ends here -->
 
 </main>
 
