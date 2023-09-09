@@ -10,7 +10,7 @@
                     <div class="row">
                         <div class="col-lg-7 mx-auto">
                             <div class="breadcrumb-content pt-100">
-                                <h1>PERSONAL LOAN</h1>
+                                <h1>BUSINESS LOAN</h1>
                                 <ul>
                                     <!-- <li><a href="index.html">home</a></li> -->
                                     <li>Lending Services</li>
@@ -24,14 +24,6 @@
         <section class="section-base p-5 m-5">
             <div class="container">
 
-                <div class="title">
-                    <h2>Listening to you</h2>
-                </div>
-
-                <p>
-                    "You first" means we begin by listening to your individual situation.  
-                </p>
-
                 <div class="row row-fit-lg">  
 
                     <div class="col-lg-4">
@@ -40,30 +32,24 @@
 
                     <div class="col-lg-8">
                         <p>
-                            Perhaps you are shopping for a vehicle or another personal need.  Call a lender at info@swissapexprivateb.com or 
-                            come in to one of our branches. You may also complete a <a href="apply.html" style="color: blue;">Jumpstart application</a> to set-up a meeting with a lender at a 
-                            branch near you.  <br><br>
-                            If you're shopping for a vehicle then consider a bank loan instead of dealer financing. In the excitement 
-                            of a purchase, the high-pressure of a dealership may lead one to overlook the fine-print of the financing.  
-                            At SAPB you'll get a competitive interest rate, plus, if cash purchase rebates are available, then you can reap 
-                            that benefit! <br><br>
+                        Your business is your passion! And our lenders share that passion. We begin by listening to understand your individual needs. We're eager to help you profit and grow in your business. Feel free to contact a <a href="" style="color: blue;">loan officer.</a> <br><br>
+                        If you are acquiring commercial real estate, constructing a new facility, or expanding an existing business, consider the experienced lenders at Horizon Trustco Bank to assist you in your financing needs. Whether your loan request is $5,000 or $5 million, our lenders have the resources to work with you and your business. <br><br>
                             
                         </p>
                     </div>                   
                 </div><br>
                 
-                <div>
-                    <h3>Other Lending Services</h3>
+                <div>  
+                    <h3>We offer</h3>
                     <p>
                         </p><ul>
-                            <li>MasterCard credit card</li>
-                            <li>Vacations</li>
-                            <li>Educational expenses</li>
+                            <li>Commercial Real Estate</li>
+                            <li>Construction</li>
+                            <li>Equipment Purchase</li>
+                            <li>Business Expansion</li>
+                            <li>Seasonal Inventory Need</li>
                         </ul><br>
-
-                        Let us help with your future plans. To request a meeting with a loan officer at one of our 
-                        branches please complete our <a href="apply.html" style="color: blue;">Jumpstart application</a>.
-                    <p></p>
+                    <p class=" p-5"> For more detailed information come in to any of our convenient locations. To request a meeting with a loan officer at one of our branches, please complete our <a href="#" style="color: blue;">Jumpstart application.</a> Email Us during business hours at info@horizontrustco.com.</p>
 
                 </div>             
 
