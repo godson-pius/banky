@@ -185,7 +185,7 @@ require_once('components/header.php') ?>
             <h3 style="margin-bottom: 5%; margin-top: 5%; font-weight: bold;">Disclosure For All Interest Bearing
               Deposit Accounts</h3>
             <p class="wow fadeInUp" , data-wow-delay="0.9s"
-              style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 0px; margin-left: 20px; margin-top: ">
+              style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 0px; margin-left: 20px;">
               The following applies to all interest bearing accounts listed on this schedule of fees and services. The
               interest rate and *Annual Percentage Yield (*APY) are subject to change weekly
             </p>

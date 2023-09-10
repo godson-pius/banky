@@ -139,7 +139,7 @@
                                     data-bs-toggle="dropdown"></i>
                                 <ul class="dropdown-menu ">
                                     <li class="nav-item"><a class="nav-link" href="blog.html">About us</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="blog.html">Contact us</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="contact">Contact us</a></li>
                                     <li class="nav-item"><a class="nav-link" href="blog.html">Location and Hours</a></li>
                                     <li class="nav-item"><a class="nav-link" href="blog-details.html">Bank News</a>
                                     <li class="nav-item"><a class="nav-link" href="blog-details.html">Careers</a>

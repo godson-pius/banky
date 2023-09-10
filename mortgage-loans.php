@@ -45,7 +45,7 @@
                 <div>
                     <h4 class="text-bold mt-5 fw-bold">Home Equity Loans</h4>
                     <p class="mt-4">
-                    Need money for your child’s college, medical expenses, a much needed vacation, or money to start a new business? You worked hard for your home, so why not let it start working for you. We also offer a Home Equity Line of Credit. See the section below for more information.
+                    Need money for your child&apos;s college, medical expenses, a much needed vacation, or money to start a new business? You worked hard for your home, so why not let it start working for you. We also offer a Home Equity Line of Credit. See the section below for more information.
                     </p>
                     <hr/>
 
