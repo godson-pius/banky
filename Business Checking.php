@@ -33,35 +33,42 @@ require_once('components/header.php') ?>
             <!-- Start writing code from here -->
             <div class="row row-fit-lg">
 
-                <div class="col-lg-4 wow fadeInUp mb-4" data-wow-delay="0.4s">
+                <div class="col-lg-4 wow fadeInUp mb-4" data-wow-delay="0.4s" style="margin-top: 50px;">
                     <img src="https://horizontrustco.com/media/box-3.png" alt=""
                         style="max-width: 100%; display: inline-block;">
                 </div>
 
 
 
+
                 <div class="col-lg-8">
-                    <h2 class="font-weight-bold" style="font-size: 28px; line-height: 40px; color: rgb(0, 71, 103);">You
-                        First Business Checking</h1>
-                        <p class="wow fadeInUp" data-wow-delay="0.9s"
-                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 80px;font-family: 'Roboto', sans-serif; font-weight: 400;">
-                            Perfect for most businesses! <br>
-                            NO minimum balance requirements. <br>
-                            NO monthly service charge. <br>
-                            1000 free monthly transaction items <br>
-                            Open an account with just $50. <br>
-                            Call or come in to speak to one of our friendly Customer Service Representatives for
-                            complete
-                            details and to determine the type of checking account that is best suited for your business
-                            <br>
-                        </p>
-                        <!-- <hr class="space"> -->
+                    <div class="title wow fadeInUp" data-wow-delay="0.9s"
+                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                        <h2 class="fw-bold" ; style=" color: rgb(0, 71, 103);">Your First Business Checking
+                        </h2>
+                    </div>
+
+                    <p class="title wow fadeInUp" data-wow-delay="0.9s"
+                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                        Perfect for most businesses! <br>
+                        NO minimum balance requirements. <br>
+                        NO monthly service charge. <br>
+                        1000 free monthly transaction items <br>
+                        Open an account with just $50. <br>
+                        Call or come in to speak to one of our friendly Customer Service Representatives for
+                        complete
+                        details and to determine the type of checking account that is best suited for your business
+                        <br>
+                    </p>
+                    <!-- <hr class="space"> -->
                 </div>
                 <div style="margin-top: 50px;">
                     <div class="title wow fadeInUp" data-wow-delay="0.9s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                        <h2 style="color: rgb(0, 71, 103);">You First Business Interest Checking</h2>
+                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                        <h2 class="fw-bold" ; style="color: rgb(0, 71, 103);">Your First Business Interest Checking.
+                        </h2>
                     </div>
+
 
                     <p class="title wow fadeInUp" data-wow-delay="0.9s"
                         style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400;">
@@ -86,7 +93,7 @@ require_once('components/header.php') ?>
                     <div>
                         <div class="title wow fadeInUp" data-wow-delay="0.9s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
-                            <h2 class="fw-bold">Regular Savings Account.</h2>
+                            <h2 class="fw-bold" style=" color: rgb(0, 71, 103);">Regular Savings Account.</h2>
                         </div>
 
                         <p class="title wow fadeInUp" data-wow-delay="0.9s"
@@ -111,11 +118,9 @@ require_once('components/header.php') ?>
                                 Minimum opening deposit of $50 required</li>
                         </ul>
 
-                        <div>
-                            <div class="title wow fadeInUp" data-wow-delay="0.9s"
-                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-top: 30px;">
-                                <h2>Health Savings Account (HSA)</h2>
-                            </div>
+                        <div class="title wow fadeInUp" data-wow-delay="0.9s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                            <h2 class="fw-bold" ; style=" color: rgb(0, 71, 103);">Health Savings Account (HSA)</h2>
 
                             <p class="title wow fadeInUp" data-wow-delay="0.9s"
                                 style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
@@ -181,8 +186,8 @@ require_once('components/header.php') ?>
                         </div>
                         <div style="margin-top: 70px; margin-bottom: 50px;">
                             <div class="title wow fadeInUp" data-wow-delay="0.9s"
-                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
-                                <h2 style="color: rgb(0, 71, 103);">Reorder Checks</h2>
+                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                                <h2 class="fw-bold" style=" color: rgb(0, 71, 103);">Reorder Checks</h2>
                             </div>
                         </div>
 
@@ -193,7 +198,8 @@ require_once('components/header.php') ?>
                         </p>
 
                         <div class=" title">
-                            <h2 class="fw-bold"; style="color: rgb(0, 71, 103); margin-top: 70px; margin-bottom: 20px;">Other Business
+                            <h2 class="fw-bold" ;
+                                style="color: rgb(0, 71, 103); margin-top: 70px; margin-bottom: 20px;">Other Business
                                 Services</h2>
                         </div>
                         <ul class="title wow fadeInUp" data-wow-delay="0.9s"
@@ -220,9 +226,9 @@ require_once('components/header.php') ?>
                             <div>
                                 <div class="title">
                                     <h2 class="fw-bold mt-4 title wow fadeInUp" data-wow-delay="0.9s"
-    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
-    Disclosure For All Interest Bearing Deposit Accounts
-</h2>
+                                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                                        Disclosure For All Interest Bearing Deposit Accounts
+                                    </h2>
 
                                 </div>
                             </div>
