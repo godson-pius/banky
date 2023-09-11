@@ -108,12 +108,17 @@ require_once('components/header.php') ?>
                         your customers.
                     </p><br>
 
-                    <p>These Retail Banking products and services all work seamlessly with our <a
+                    <p class="title wow fadeInUp" data-wow-delay="0.9s"
+                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 25px; margin-bottom: 20px;">
+                        These Retail Banking products and services all work seamlessly with our <a
                             href="Business Checking.php" style="color: blue;">Business Checking and Savings
                             Accounts</a>.</p>
                     <br>
 
-                    <p>Contact our Retail Banking Department or call 870-215-4723 ext. 5700 to learn more about these or
+                    <p class="title wow fadeInUp" data-wow-delay="0.9s"
+                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                        Contact our Retail Banking Department or call 870-215-4723 ext. 5700 to learn more about these
+                        or
                         other You 1<sup>st</sup> Business services.</p>
 
 
