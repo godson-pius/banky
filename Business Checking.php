@@ -113,7 +113,7 @@ require_once('components/header.php') ?>
 
                         <div>
                             <div class="title wow fadeInUp" data-wow-delay="0.9s"
-                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-top: 30px;">
                                 <h2>Health Savings Account (HSA)</h2>
                             </div>
 
@@ -193,7 +193,7 @@ require_once('components/header.php') ?>
                         </p>
 
                         <div class=" title">
-                            <h2 style="color: rgb(0, 71, 103); margin-top: 70px; margin-bottom: 20px;">Other Business
+                            <h2 class="fw-bold"; style="color: rgb(0, 71, 103); margin-top: 70px; margin-bottom: 20px;">Other Business
                                 Services</h2>
                         </div>
                         <ul class="title wow fadeInUp" data-wow-delay="0.9s"
@@ -219,9 +219,11 @@ require_once('components/header.php') ?>
 
                             <div>
                                 <div class="title">
-                                    <h2 class="mt-4 title wow fadeInUp" data-wow-delay="0.9s"
-                                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
-                                        Disclosure For All Interest Bearing Deposit Accounts</h2>
+                                    <h2 class="fw-bold mt-4 title wow fadeInUp" data-wow-delay="0.9s"
+    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+    Disclosure For All Interest Bearing Deposit Accounts
+</h2>
+
                                 </div>
                             </div>
 
