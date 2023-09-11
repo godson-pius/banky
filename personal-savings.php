@@ -5,21 +5,20 @@ require_once('components/header.php');
 
 <main>
   <!-- BreadCrumb start -->
+  <!-- BreadCrumb start -->
   <section class="breadcrumb-area">
-    <div class="breadcrumb-widget  breadcrumb-widget-3 pt-5 pb-5"
+    <div class="breadcrumb-widget  breadcrumb-widget-3 pt-200 pb-200"
       style="background-image: url(img/breadcrumb/bg-3.jpg);">
 
       <div class="container">
         <div class="row">
           <div class="col-lg-7 mx-auto">
             <div class="breadcrumb-content pt-100">
-              <h1 class="display-4">PERSONAL SAVINGS</h1>
-              <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                  <li class="breadcrumb-item"><a href="http://localhost/BANKY/index">Home</a></li>
-                  <li class="breadcrumb-item active" aria-current="page">Personal Savings</li>
-                </ol>
-              </nav>
+              <h1>PERSONAL SAVINGS</h1>
+              <ul>
+                <li><a href="http://localhost/BANKY/index">home</a></li>
+                <li>Personal savings</li>
+              </ul>
             </div>
           </div>
         </div>
@@ -35,7 +34,8 @@ require_once('components/header.php');
       <!-- Start writing code from here -->
       <section class="bank-app-showcase-area bg-white">
         <div class="container">
-          <h3 class="font-weight-bold" style="color: rgb(0, 71, 103);">Earn, Grow, Save!</h3>
+          <h3 class="font-weight-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
+            data-wow-delay="0.9s">Earn, Grow, Save!</h3>
 
           <div class="row align-items-center flex-row-reverse">
             <div class="col-lg-6 offset-lg-1">
@@ -54,7 +54,8 @@ require_once('components/header.php');
               <img class="img-fluid mb-4" src="https://www.horizontrustco.com/media/box-3.png" alt="Bank Image">
             </div>
           </div>
-          <h3 class="font-weight-bold mt-5 mb-3" style="color: rgb(0, 71, 103);">Regular Savings</h3>
+          <h3 class="font-weight-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
+            data-wow-delay="0.9s">Regular Savings</h3>
           <p class="title wow fadeInUp" data-wow-delay="0.9s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
             Pay yourself as regularly as you are paid. Begin saving every payday in a Regular Savings Account at SAPB.
@@ -78,7 +79,8 @@ require_once('components/header.php');
               account statement</li>
             <li><i class="fas fa-check-circle" ; style="color : blue"></i> Minimum opening deposit of $10 required</li>
           </ul>
-          <h3 class="font-weight-bold" style="color: rgb(0, 71, 103);">Working Money Account</h3>
+          <h3 class="font-weight-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
+            data-wow-delay="0.9s">Working Money Account</h3>
           <p class="title wow fadeInUp" data-wow-delay="0.9s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
             The Working Money Account is a competitive variable rate account with 4 tiered balance levels. A higher
@@ -114,7 +116,8 @@ require_once('components/header.php');
               Effect of Fees: fees may reduce earnings.
             </li>
           </ul>
-          <h3 class="font-weight-bold mt-5 mb-3" style="color: rgb(0, 71, 103);">Certificates of Deposits</h3>
+          <h3 class="font-weight-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
+            data-wow-delay="0.9s">Certificates of Deposits</h3>
 
           <p class="title wow fadeInUp" data-wow-delay="0.9s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
@@ -134,7 +137,8 @@ require_once('components/header.php');
             local branches or call info@horizontrustco.com. View current rates and terms of CDs.
           </p>
 
-          <h3 class="font-weight-bold mt-5 mb-3" style="color: rgb(0, 71, 103);">Individual Retirement Accounts</h3>
+          <h3 class="font-weight-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
+            data-wow-delay="0.9s">Individual Retirement Accounts</h3>
           <p class="title wow fadeInUp" data-wow-delay="0.9s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
             Plan for your retirement with an IRA from SAPB. Begin with as little as $100 and make regular deposits in

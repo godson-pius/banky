@@ -33,19 +33,21 @@ require_once('components/header.php') ?>
             <!-- Start writing code from here -->
             <div>
                 <div class="title">
-                    <h2>Instant Issue Debit Cards</h2>
+                    <h2 class="font-weight-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
+                        data-wow-delay="0.9s">Instant Issue Debit Cards</h2>
                 </div>
                 <div class="row row-fit-lg">
                     <div class="col-lg-8">
-                        <p>
+                        <p class="title wow fadeInUp" data-wow-delay="0.9s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
                             Another way we put you first is by issuing Debit Mastercard instantly at our branches.
                             So begin a new checking account today, knowing that you can use your debit card today.
                             No waiting for a card to arrive by mail. You may also personalize your card with over 110
-                            different card designs including local team cards. Use your Debit Mastercard
+                            different card designs, including local team cards. Use your Debit Mastercard
                             nationwide at retail locations and ATMs accepting Mastercard. <br>
-                            Your card is FREE with any SAPB Checking account and there are no SAPB transaction fees when
-                            you
-                            use the card for retail purchases. Also, there is NO FEE for cash withdrawals at ATMs
+                            Your card is FREE with any SAPB Checking account, and there are no SAPB transaction fees
+                            when
+                            you use the card for retail purchases. Also, there is NO FEE for cash withdrawals at ATMs
                             operated by SAPB.
                         </p>
                     </div>
@@ -58,7 +60,8 @@ require_once('components/header.php') ?>
                     </div>
                 </div><br>
 
-                <p>
+                <p class="title wow fadeInUp" data-wow-delay="0.9s"
+                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
                     Mobile Wallet is also available for your Debit Mastercard to make
                     purchases using your phone. <br>
                     The Debit card ATM withdrawal limit is $500 per day. There is a $1 per transaction fee for cash
@@ -70,10 +73,12 @@ require_once('components/header.php') ?>
 
             <div>
                 <div class="title">
-                    <h2>Merchant Payment Services</h2>
+                    <h2 class="font-weight-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
+                        data-wow-delay="0.9s">Merchant Payment Services</h2>
                 </div>
 
-                <p>
+                <p class="title wow fadeInUp" data-wow-delay="0.9s"
+                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
                     If you own or operate a business, it pays to accept credit and debit cards. Most of your customers
                     will
                     appreciate the convenience that debit and credit cards provide. Many people no longer carry checks.
@@ -92,10 +97,12 @@ require_once('components/header.php') ?>
 
             <div>
                 <div class="title">
-                    <h2>Credit Cards</h2>
+                    <h2 class="font-weight-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
+                        data-wow-delay="0.9s">Credit Cards</h2>
                 </div>
 
-                <p>
+                <p class="title wow fadeInUp" data-wow-delay="0.9s"
+                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
                     Low rates, local service with worldwide access are advantages that a credit card from Horizon
                     Trustco
                     Bank has over an out-of-state credit card company. Many credit cards may offer you a low
@@ -115,10 +122,12 @@ require_once('components/header.php') ?>
 
             <div>
                 <div class="title">
-                    <h2>Cash Advance</h2>
+                    <h2 class="font-weight-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
+                        data-wow-delay="0.9s">Cash Advance</h2>
                 </div>
 
-                <p>
+                <p class="title wow fadeInUp" data-wow-delay="0.9s"
+                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
                     We offer Cash Advance service inside the lobby at our branch offices. To conduct a cash advance
                     please present
                     your Mastercard or Visa credit card at a teller window along with your personal identification. Cash
