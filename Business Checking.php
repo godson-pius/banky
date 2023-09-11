@@ -232,39 +232,55 @@ require_once('components/header.php') ?>
                                 and services.
                                 The interest rate and Annual Percentage Yield (APY) are subject to change weekly.
                             </p>
-                            <<div class="mt-4 title wow fadeInUp" data-wow-delay="0.9s"
+                            <div class="mt-4 title wow fadeInUp" data-wow-delay="0.9s"
                                 style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
                                 <h2>Disclosure For All Interest Bearing Deposit Accounts</h2>
+                            </div>
+
+
+                            <ul class="list-group mt-4 title wow fadeInUp" data-wow-delay="0.9s">
+                                <li class="list-group-item">
+                                    <i class="fas fa-check-circle" style="color: blue;"></i>
+                                    Balance Computation Method: We use the daily balance method to calculate the
+                                    interest on
+                                    your account. This method applies the daily periodic rate to the principal in the
+                                    account on
+                                    each day. Interest is paid (credited) and compounded monthly, except for Regular
+                                    Savings
+                                    which is paid (credited) and compounded quarterly.
+                                </li>
+                                <li class="list-group-item">
+                                    <i class="fas fa-check-circle" style="color: blue;"></i>
+                                    Accrual: Interest begins to accrue no later than the day we receive full credit for
+                                    the
+                                    deposit of non-cash items (for example checks).
+                                </li>
+                                <li class="list-group-item">
+                                    <i class="fas fa-check-circle" style="color: blue;"></i>
+                                    All interest-bearing accounts are variable rate accounts. We may change the rate at
+                                    our
+                                    discretion.
+                                </li>
+                                <li class="list-group-item">
+                                    <i class="fas fa-check-circle" style="color: blue;"></i>
+                                    If you close your account before interest is credited, you will receive interest
+                                    only if you
+                                    notify us at the time of closing. If you do not tell us you are closing your
+                                    account, you
+                                    will not receive your accrued interest.
+                                </li>
+                                <li class="list-group-item">
+                                    <i class="fas fa-check-circle" style="color: blue;"></i>
+                                    Effect of Fees: fees may reduce earnings.
+                                </li>
+                            </ul>
+
+                        </ul>
+                        <p></p>
+
                     </div>
-
-
-                    <ul class="mt-4 title wow fadeInUp" data-wow-delay="0.9s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
-                        <li><i class="fas fa-check-circle" style="color: blue; line-height: 40px"></i> Balance
-                            Computation Method: We use the daily balance method to calculate the interest on your
-                            account. This method applies the daily periodic rate to the principal in the account on each
-                            day. Interest is paid (credited) and compounded monthly, except for Regular Savings which is
-                            paid (credited) and compounded quarterly.</li>
-                        <li><i class="fas fa-check-circle" style="color: blue; line-height: 40px"></i> Accrual: Interest
-                            begins to accrue no later than the day we receive full credit for the deposit of non-cash
-                            items (for example checks)</li>
-                        <li><i class="fas fa-check-circle" style="color: blue; line-height: 40px"></i> All interest
-                            bearing accounts are variable rate accounts. We may change the rate at our discretion.</li>
-                        <li><i class="fas fa-check-circle" style="color: blue; line-height: 40px"></i> If you close your
-                            account before interest is credited, you will receive interest only if you notify us at the
-                            time of closing. If you do not tell us you are closing your account you will not receive
-                            your accrued interest.</li>
-                        <li><i class="fas fa-check-circle" style="color: blue;"></i> <span
-                                style="line-height: 40px;">Effect of Fees: fees may reduce earnings.</span></li>
-                    </ul>
-
-
-                    </ul>
-                    <p></p>
-
                 </div>
             </div>
-        </div>
 
         </div>
 
