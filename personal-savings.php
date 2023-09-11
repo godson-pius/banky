@@ -221,7 +221,7 @@ require_once('components/header.php');
           </h3>
 
           <p class="title wow fadeInUp" data-wow-delay="0.9s"
-            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103);25px; margin-bottom: 20px;">
             The following applies to all interest-bearing accounts listed on this schedule of fees and services. The
             interest
             rate and *Annual Percentage Yield (*APY) are subject to change weekly.

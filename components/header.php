@@ -105,9 +105,9 @@
                                     <li class="nav-item"><a class="nav-link" href="mortgage-loans">Mortgage Loans</a>
                                     <li class="nav-item"><a class="nav-link" href="#">Agricultural Loans</a>
                                     <li class="nav-item"><a class="nav-link" href="loan-officers">Loan Officers</a>
-                                    <li class="nav-item"><a class="nav-link" href="job-post.html">Credit Cards</a>
+                                    <li class="nav-item"><a class="nav-link" href="credit-card">Credit Cards</a>
                                     <li class="nav-item"><a class="nav-link" href="job-post.html">Credit Card LOGIN</a>
-                                    <li class="nav-item"><a class="nav-link" href="job-post.html">Apply</a>
+                                    <li class="nav-item"><a class="nav-link" href="lending-service-apply">Apply</a>
                                     </li>
                                 </ul>
                             </li>
@@ -139,7 +139,7 @@
                                     data-bs-toggle="dropdown"></i>
                                 <ul class="dropdown-menu ">
                                     <li class="nav-item"><a class="nav-link" href="blog.html">About us</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="blog.html">Contact us</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="contact">Contact us</a></li>
                                     <li class="nav-item"><a class="nav-link" href="blog.html">Location and Hours</a></li>
                                     <li class="nav-item"><a class="nav-link" href="blog-details.html">Bank News</a>
                                     <li class="nav-item"><a class="nav-link" href="blog-details.html">Careers</a>
