@@ -204,10 +204,10 @@ require_once('components/header.php') ?>
 </form>
 
 
-                                            </div>
-                                        </div><br>
+                                        </div>
+                                </div><br>
 
-                                    </div>
+                         </div>
                 </section>
             </main>
         </div>
