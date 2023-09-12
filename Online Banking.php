@@ -1,4 +1,4 @@
-<?php $page_title = "Online Banking"; require_once('components/header.php') ?>
+<?php $page_title = "Personal Checking"; require_once('components/header.php') ?>
     <!-- Header end-->
 
 
@@ -12,10 +12,10 @@
                     <div class="row">
                         <div class="col-lg-7 mx-auto">
                             <div class="breadcrumb-content pt-100">
-                                <h1>ONLINE BANKING</h1>
+                                <h1>REORDER CHECKS</h1>
                                 <ul>
                                     <li><a href="http://localhost/BANKY/index">home</a></li>
-                                    <li>Online Banking</li>
+                                    <li>Reorder Checks</li>
                                 </ul>
                             </div>
                         </div>
@@ -26,6 +26,7 @@
         <!-- BreadCrumb end -->
 
         <!-- Content start here -->
+        
         <section class="pt-140 pb-100 get-touch-area bg_white">
             <div class="container">
         

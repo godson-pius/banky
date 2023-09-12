@@ -33,35 +33,42 @@ require_once('components/header.php') ?>
             <!-- Start writing code from here -->
             <div class="row row-fit-lg">
 
-                <div class="col-lg-4 wow fadeInUp mb-4" data-wow-delay="0.4s">
+                <div class="col-lg-4 wow fadeInUp mb-4" data-wow-delay="0.4s" style="margin-top: 50px;">
                     <img src="https://horizontrustco.com/media/box-3.png" alt=""
                         style="max-width: 100%; display: inline-block;">
                 </div>
 
 
 
+
                 <div class="col-lg-8">
-                    <h2 class="font-weight-bold" style="font-size: 28px; line-height: 40px; color: rgb(0, 71, 103);">You
-                        First Business Checking</h1>
-                        <p class="wow fadeInUp" data-wow-delay="0.9s"
-                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; margin-bottom: 80px;font-family: 'Roboto', sans-serif; font-weight: 400;">
-                            Perfect for most businesses! <br>
-                            NO minimum balance requirements. <br>
-                            NO monthly service charge. <br>
-                            1000 free monthly transaction items <br>
-                            Open an account with just $50. <br>
-                            Call or come in to speak to one of our friendly Customer Service Representatives for
-                            complete
-                            details and to determine the type of checking account that is best suited for your business
-                            <br>
-                        </p>
-                        <!-- <hr class="space"> -->
+                    <div class="title wow fadeInUp" data-wow-delay="0.9s"
+                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                        <h2 class="fw-bold" ; style=" color: rgb(0, 71, 103);">Your First Business Checking
+                        </h2>
+                    </div>
+
+                    <p class="title wow fadeInUp" data-wow-delay="0.9s"
+                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                        Perfect for most businesses! <br>
+                        NO minimum balance requirements. <br>
+                        NO monthly service charge. <br>
+                        1000 free monthly transaction items <br>
+                        Open an account with just $50. <br>
+                        Call or come in to speak to one of our friendly Customer Service Representatives for
+                        complete
+                        details and to determine the type of checking account that is best suited for your business
+                        <br>
+                    </p>
+                    <!-- <hr class="space"> -->
                 </div>
                 <div style="margin-top: 50px;">
                     <div class="title wow fadeInUp" data-wow-delay="0.9s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                        <h2 style="color: rgb(0, 71, 103);">You First Business Interest Checking</h2>
+                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                        <h2 class="fw-bold" ; style="color: rgb(0, 71, 103);">Your First Business Interest Checking.
+                        </h2>
                     </div>
+
 
                     <p class="title wow fadeInUp" data-wow-delay="0.9s"
                         style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400;">
@@ -86,7 +93,7 @@ require_once('components/header.php') ?>
                     <div>
                         <div class="title wow fadeInUp" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
-                            <h2 class="fw-bold">Regular Savings Account.</h2>
+                            <h2 class="fw-bold" style=" color: rgb(0, 71, 103);">Regular Savings Account.</h2>
                         </div>
 
                         <p class="title wow fadeInUp" data-wow-delay="0.9s"
@@ -111,11 +118,9 @@ require_once('components/header.php') ?>
                                 Minimum opening deposit of $50 required</li>
                         </ul>
 
-                        <div>
-                            <div class="title wow fadeInUp" data-wow-delay="0.9s"
-                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
-                                <h2>Health Savings Account (HSA)</h2>
-                            </div>
+                        <div class="title wow fadeInUp" data-wow-delay="0.9s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                            <h2 class="fw-bold" ; style=" color: rgb(0, 71, 103);">Health Savings Account (HSA)</h2>
 
                             <p class="title wow fadeInUp" data-wow-delay="0.9s"
                                 style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
@@ -181,8 +186,8 @@ require_once('components/header.php') ?>
                         </div>
                         <div style="margin-top: 70px; margin-bottom: 50px;">
                             <div class="title wow fadeInUp" data-wow-delay="0.9s"
-                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
-                                <h2 style="color: rgb(0, 71, 103);">Reorder Checks</h2>
+                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                                <h2 class="fw-bold" style=" color: rgb(0, 71, 103);">Reorder Checks</h2>
                             </div>
                         </div>
 
@@ -193,7 +198,8 @@ require_once('components/header.php') ?>
                         </p>
 
                         <div class=" title">
-                            <h2 style="color: rgb(0, 71, 103); margin-top: 70px; margin-bottom: 20px;">Other Business
+                            <h2 class="fw-bold" ;
+                                style="color: rgb(0, 71, 103); margin-top: 70px; margin-bottom: 20px;">Other Business
                                 Services</h2>
                         </div>
                         <ul class="title wow fadeInUp" data-wow-delay="0.9s"
@@ -219,9 +225,11 @@ require_once('components/header.php') ?>
 
                             <div>
                                 <div class="title">
-                                    <h2 class="mt-4 title wow fadeInUp" data-wow-delay="0.9s"
-                                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
-                                        Disclosure For All Interest Bearing Deposit Accounts</h2>
+                                    <h2 class="fw-bold mt-4 title wow fadeInUp" data-wow-delay="0.9s"
+                                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                                        Disclosure For All Interest Bearing Deposit Accounts
+                                    </h2>
+
                                 </div>
                             </div>
 
@@ -232,39 +240,55 @@ require_once('components/header.php') ?>
                                 and services.
                                 The interest rate and Annual Percentage Yield (APY) are subject to change weekly.
                             </p>
-                            <<div class="mt-4 title wow fadeInUp" data-wow-delay="0.9s"
+                            <div class="mt-4 title wow fadeInUp" data-wow-delay="0.9s"
                                 style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
                                 <h2>Disclosure For All Interest Bearing Deposit Accounts</h2>
+                            </div>
+
+
+                            <ul class="list-group mt-4 title wow fadeInUp" data-wow-delay="0.9s">
+                                <li class="list-group-item">
+                                    <i class="fas fa-check-circle" style="color: blue;"></i>
+                                    Balance Computation Method: We use the daily balance method to calculate the
+                                    interest on
+                                    your account. This method applies the daily periodic rate to the principal in the
+                                    account on
+                                    each day. Interest is paid (credited) and compounded monthly, except for Regular
+                                    Savings
+                                    which is paid (credited) and compounded quarterly.
+                                </li>
+                                <li class="list-group-item">
+                                    <i class="fas fa-check-circle" style="color: blue;"></i>
+                                    Accrual: Interest begins to accrue no later than the day we receive full credit for
+                                    the
+                                    deposit of non-cash items (for example checks).
+                                </li>
+                                <li class="list-group-item">
+                                    <i class="fas fa-check-circle" style="color: blue;"></i>
+                                    All interest-bearing accounts are variable rate accounts. We may change the rate at
+                                    our
+                                    discretion.
+                                </li>
+                                <li class="list-group-item">
+                                    <i class="fas fa-check-circle" style="color: blue;"></i>
+                                    If you close your account before interest is credited, you will receive interest
+                                    only if you
+                                    notify us at the time of closing. If you do not tell us you are closing your
+                                    account, you
+                                    will not receive your accrued interest.
+                                </li>
+                                <li class="list-group-item">
+                                    <i class="fas fa-check-circle" style="color: blue;"></i>
+                                    Effect of Fees: fees may reduce earnings.
+                                </li>
+                            </ul>
+
+                        </ul>
+                        <p></p>
+
                     </div>
-
-
-                    <ul class="mt-4 title wow fadeInUp" data-wow-delay="0.9s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
-                        <li><i class="fas fa-check-circle" style="color: blue; line-height: 40px"></i> Balance
-                            Computation Method: We use the daily balance method to calculate the interest on your
-                            account. This method applies the daily periodic rate to the principal in the account on each
-                            day. Interest is paid (credited) and compounded monthly, except for Regular Savings which is
-                            paid (credited) and compounded quarterly.</li>
-                        <li><i class="fas fa-check-circle" style="color: blue; line-height: 40px"></i> Accrual: Interest
-                            begins to accrue no later than the day we receive full credit for the deposit of non-cash
-                            items (for example checks)</li>
-                        <li><i class="fas fa-check-circle" style="color: blue; line-height: 40px"></i> All interest
-                            bearing accounts are variable rate accounts. We may change the rate at our discretion.</li>
-                        <li><i class="fas fa-check-circle" style="color: blue; line-height: 40px"></i> If you close your
-                            account before interest is credited, you will receive interest only if you notify us at the
-                            time of closing. If you do not tell us you are closing your account you will not receive
-                            your accrued interest.</li>
-                        <li><i class="fas fa-check-circle" style="color: blue;"></i> <span
-                                style="line-height: 40px;">Effect of Fees: fees may reduce earnings.</span></li>
-                    </ul>
-
-
-                    </ul>
-                    <p></p>
-
                 </div>
             </div>
-        </div>
 
         </div>
 
