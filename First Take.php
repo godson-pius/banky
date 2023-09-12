@@ -38,7 +38,8 @@ require_once('components/header.php') ?>
                     <div class="container">
                         <div class="row row-fit-lg">
                             <div>
-                                <p>
+                                <p class="title wow fadeInUp" data-wow-delay="0.9s"
+                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 30px;">
                                     Welcome to First Take! Our marketing team hosts a bi-weekly podcast that gives you
                                     the latest news and
                                     information on the banking world as well as things going on at Horizon Trustco Bank.
@@ -55,29 +56,36 @@ require_once('components/header.php') ?>
                                         Plan)(Opens in a new Window)</p>
                                     <h2 class="fw-bold" style=" color: rgb(0, 71, 103);">What we do</h2>
                                 </div>
-                                (9/22/21) - It's a hot topic in banking right now: the IRS reporting plan proposed as
-                                part of the US Department of Treasury budget reconciliation package.
-                                Under the measure, FI’s would be required to annually report gross inflows and outflows
-                                from all business and personal accounts including bank, loan, and investment accounts.
-                                If the inflows and out flows of an account total at least $600 in a year or if the fair
-                                market value is at least $600.
-                                (Politifact article by Tom Kertscher)
+                                <P class="title wow fadeInUp" data-wow-delay="0.9s"
+                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 30px;">
+                                    (9/22/21) - It's a hot topic in banking right now: the IRS reporting plan proposed
+                                    as
+                                    part of the US Department of Treasury budget reconciliation package.
+                                    Under the measure, FI’s would be required to annually report gross inflows and
+                                    outflows
+                                    from all business and personal accounts including bank, loan, and investment
+                                    accounts.
+                                    If the inflows and out flows of an account total at least $600 in a year or if the
+                                    fair
+                                    market value is at least $600.
+                                    (Politifact article by Tom Kertscher)
+                                </P>
                                 <p></p><br>
                                 <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 30px;">
                                     The proposal, according to the US Department of Treasury, would be focused on higher
                                     earners who do not fully report their tax liabilities. No details of individual
                                     transactions would be reported.
                                     (Politifact article by Tom Kertscher)<br>
                                 </p>
                                 <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 30px;">
                                     If passed, this proposal would essentially add two numbers to a form already
                                     submitted (1099).
                                     (American Banker article by Brendan Pedersen)<br>
                                 </p>
                                 <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 30px;">
                                     The plan is only currently a recommendation from the Biden Administration as part of
                                     the American Families Plan and Build
                                     Back Better Agenda. The proposal, which is part of larger budget package, still
@@ -87,7 +95,7 @@ require_once('components/header.php') ?>
                                     out at all.
                                 </p><br>
                                 <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 30px;">
                                     There are many organizations, politicians, and individuals that have come out
                                     against the proposed reporting plan. This is includes a letter signed by several
                                     members of Congress(Opens in a new Window) stating their objection to this item. In
@@ -102,7 +110,7 @@ require_once('components/header.php') ?>
                                     new Window).
                                 </p><br>
                                 <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 30px;">
                                     Also coming out against the proposal was the American Banker's Association. "The
                                     proposal would create a significant burden on small businesses and community banks
                                     and add no discernible value to tax enforcement. It is far from clear that requiring
@@ -113,21 +121,21 @@ require_once('components/header.php') ?>
                                     Tom Kertscher)
                                 </p><br>
                                 <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 30px;">
                                     Once again, this legislation still has a long way to go before ever becoming law.
                                     That being said, Horizon Trustco Bank
                                     recognizes the concern from our customers and wanted to bring you the facts as we
                                     knew them.
                                 </p><br>
                                 <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 30px;">
                                     Blake Guinn and Allison McDaniel covered this topic in our podcast, First Take: The
                                     Least Boring Banking Podcast. You can listen to that podcast by clicking here(Opens
                                     in a new Window) or by searching for First Take: The Least Boring Banking Podcast
                                     wherever you listen to your podcasts.
                                 </p><br>
                                 <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 30px;">
                                     To read the the full articles cited in this article, you can visit the links
                                     below:<br>
                                     (Politifact article by Tom Kertscher)(Opens in a new Window)<br>
