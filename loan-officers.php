@@ -12,7 +12,6 @@
                             <div class="breadcrumb-content pt-100">
                                 <h1>LOAN OFFICERS</h1>
                                 <ul>
-                                    <!-- <li><a href="index.html">home</a></li> -->
                                     <li>Lending Services</li>
                                 </ul>
                             </div>
@@ -30,39 +29,65 @@
                     style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.3s;"
                     >
                         <p>
-                            Perhaps you are shopping for a vehicle or another personal need.  Call a lender at info@swissapexprivateb.com or 
-                            come in to one of our branches. You may also complete a <a href="lending-service-apply" style="color: blue;">Jumpstart application</a> to set-up a meeting with a lender at a 
-                            branch near you.  <br><br>
-                            If you're shopping for a vehicle then consider a bank loan instead of dealer financing. In the excitement 
-                            of a purchase, the high-pressure of a dealership may lead one to overlook the fine-print of the financing.  
-                            At SAPB you'll get a competitive interest rate, plus, if cash purchase rebates are available, then you can reap 
-                            that benefit! <br><br>
+                        Your First banking means that our lenders are easy to find and ready to listen! You may send a message to a loan officer via our contact us page. If you want to reach a specific loan officer at SAPB then please indicate the name of that person in your message. You may prefer to call one of our lenders directly. See our loan officers below. Contact us soon!<br><br>
                             
                         </p>
                     </div>                   
                 </div><br>
-                
-                <div>
-                    <h3 class="fw-bold" data-wow-dealy="0.3s"
-                    style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.3s;"
-                     >Other Lending Services.</h3>
-                    <p data-wow-dealy="0.3s"
-                    style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.3s;"
-                    >
-                        </p><ul>
-                            <li>-MasterCard credit card</li>
-                            <li>-Vacations</li>
-                            <li>-Educational expenses</li>
-                        </ul><br>
 
-                        Let us help with your future plans. To request a meeting with a loan officer at one of our 
-                        branches please complete our <a href="lending-service-apply" style="color: blue;">Jumpstart application</a>.
-                    <p></p>
+                <div class="d-flex col-md gap-3">              
+                        <div class="single-leadership-widget wow fadeInUp col-sm-3" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                            <a href="#">
+                                <img src="img/leadership/img-1.png" alt="leader-1">
+                                <div class="leader-info">
+                                    <h5>Eldridge Robles</h5>
+                                    <p>Co-Founder, Conis</p>
+                                </div>
+                            </a>
+                        </div>
 
-                </div>             
+                        <div class="single-leadership-widget wow fadeInUp col-sm-3" data-wow-delay="0.1s" style="visibility: visible;   animation-delay: 0.1s; animation-name:    fadeInUp;">
+                            <a href="#">
+                                <img src="img/leadership/img-1.png" alt="leader-1">
+                                <div class="leader-info">
+                                    <h5>Eldridge Robles</h5>
+                                    <p>Co-Founder, Conis</p>
+                                </div>
+                            </a>
+                        </div>
 
+                        <div class="single-leadership-widget wow fadeInUp col-sm-3" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                            <a href="#">
+                                <img src="img/leadership/img-1.png" alt="leader-1">
+                                <div class="leader-info">
+                                    <h5>Eldridge Robles</h5>
+                                    <p>Co-Founder, Conis</p>
+                                </div>
+                            </a>
+                        </div>
 
+                        <div class="single-leadership-widget wow fadeInUp col-sm-3" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                            <a href="#">
+                                <img src="img/leadership/img-1.png" alt="leader-1">
+                                <div class="leader-info">
+                                    <h5>Eldridge Robles</h5>
+                                    <p>Co-Founder, Conis</p>
+                                </div>
+                            </a>
+                        </div>
+
+                        <div class="single-leadership-widget wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                            <a href="#">
+                                <img src="img/leadership/img-1.png" alt="leader-1">
+                                <div class="leader-info">
+                                    <h5>Eldridge Robles</h5>
+                                    <p>Co-Founder, Conis</p>
+                                </div>
+                            </a>
+                        </div>  
+                    </div>
             </div>
+                </div>
         </section>
     </main>
 

@@ -16,7 +16,7 @@ require_once('components/header.php') ?>
                             <h1>BUSINESS CHECKING AND SAVINGS</h1>
                             <ul>
                                 <li><a href="index.html">home</a></li>
-                                <li>Business checking and savings</li>
+                                <li>Business checking and Savings</li>
                             </ul>
                         </div>
                     </div>
@@ -84,7 +84,7 @@ require_once('components/header.php') ?>
                     </ul>
 
                     <div>
-                        <div class="title wow fadeInUp" data-wow-delay="0.9s"
+                        <div class="title wow fadeInUp" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
                             <h2 class="fw-bold">Regular Savings Account.</h2>
                         </div>

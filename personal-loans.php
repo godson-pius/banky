@@ -25,10 +25,12 @@
             <div class="container">
 
                 <div class="title">
-                    <h2>Listening to you</h2>
+                    <h2 class="fw-bold">Listening to you</h2>
                 </div>
 
-                <p>
+                <p class="wow fadeInUp" data-wow-delay="0.3s"
+                style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;"
+                >
                     "You first" means we begin by listening to your individual situation.  
                 </p>
 
