@@ -150,9 +150,9 @@
                                 </ul>
                             </li>
                         </ul>
-                        <a class="theme-btn theme-btn-rounded-2 theme-btn-alt"
+                        <!-- <a class="theme-btn theme-btn-rounded-2 theme-btn-alt"
                             href="https://themeforest.net/item/royal Union-banking-business-loan-bootstrap5html-website-template/32788885?s_rank=9"
-                            target="_blank">Buy Royal Union</a>
+                            target="_blank">Buy Royal Union</a> -->
                         <div class="px-2 js-darkmode-btn" title="Toggle dark mode">
                             <label for="something" class="tab-btn tab-btns">
                                 <ion-icon name="moon"></ion-icon>
