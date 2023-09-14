@@ -10,7 +10,7 @@ require_once('components/header.php') ?>
             <div class="row">
                 <div class="col-lg-7 mx-auto">
                     <div class="breadcrumb-content pt-100">
-                        <h1>PERSONAL LOAN</h1>
+                        <h1>PERSONAL LOANS</h1>
                         <ul>
                             <!-- <li><a href="index.html">home</a></li> -->
                             <li>Lending Services</li>
@@ -25,7 +25,7 @@ require_once('components/header.php') ?>
             <div class="container">
 
                 <div class="title">
-                    <h2 class="fw-bold">Listening to you</h2>
+                    <h2 class="fw-bold wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">Listening to you</h2>
                 </div>
 
                 <p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">

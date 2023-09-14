@@ -43,28 +43,28 @@
                 </div><br>
                 
                 <div>
-                    <h4 class="text-bold mt-5 fw-bold">Home Equity Loans</h4>
+                    <h4 class="text-bold mt-5 fw-bold">Home Equity Loans.</h4>
                     <p class="mt-4">
                     Need money for your child&apos;s college, medical expenses, a much needed vacation, or money to start a new business? You worked hard for your home, so why not let it start working for you. We also offer a Home Equity Line of Credit. See the section below for more information.
                     </p>
                     <hr/>
 
-                    <h4 class="mt-2 fw-bold">Home Equity Line of Credit</h4>
+                    <h4 class="mt-2 fw-bold">Home Equity Line of Credit.</h4>
                     <p class="mt-4 pb-4">Our Home Equity Line of Credit is a great way to finance the special needs in life. You can fund: home improvements, vehicles, vacations, educational expenses and many other purposes. Your credit line is based on the equity in your home. Once established, your Home Equity Line of Credit is a flexible, affordable source of credit that you may access as needed</p>
 
                     <hr/>
 
                     <em  class="mt-4 fw-bold">*Some restrictions apply including, application, final credit approval, and collateral requirements.</em>
 
-                    <h4 class="mt-5 fw-bold">Home Improvement Loan</h4>
+                    <h4 class="mt-5 fw-bold">Home Improvement Loan.</h4>
                     <p class="mt-4">We also make home improvement loans for any size project. If you have equity in your home then you might want to consider using it to improve your home or to fund other needs which may arise.</p>
                     <hr/>
-                    <h4 class="mt-5 fw-bold">Home Improvement Loan</h4>
+                    <h4 class="mt-5 fw-bold">Home Improvement Loan.</h4>
                     <p class="mt-4">We also make home improvement loans for any size project. If you have equity in your home then you might want to consider using it to improve your home or to fund other needs which may arise.</p>
 
                     <hr/>
 
-                    <h4 class="mt-3 fw-bold">Land Purchase Loans</h4>
+                    <h4 class="mt-3 fw-bold">Land Purchase Loans.</h4>
                     <p class="mt-4 pb-4">Are you looking ahead to build or develop? Come in and speak to one of our lenders about that lot or land you are considering.</p>
                     <hr/>
                     

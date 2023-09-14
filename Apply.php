@@ -155,6 +155,7 @@ require_once('components/header.php') ?>
                                         <div class="col-lg-6">
                                             <div class="form-group">
                                                 <label for="gender" ;>Gender <span class="text-danger">*</span></label>
+<<<<<<< HEAD
                                                 <select id="gender" class="form-control rounded-10" style="height: 55px;">
                                                     <option>Male</option>
                                                     <option>Female</option>
@@ -171,6 +172,25 @@ require_once('components/header.php') ?>
                         </div><br>
 
                     </div>
+=======
+                                                <select id="gender" class="form-control rounded-10"
+                                                    style="height: 55px;">
+                    <option>Male</option>
+                    <option>Female</option>
+                    <option>Other</option>
+                </select>
+            </div>
+        </div>
+        <button class="btn btn-primary m-4" type="submit">SUBMIT</button>
+    </div>
+</form>
+
+
+                                        </div>
+                                </div><br>
+
+                         </div>
+>>>>>>> 86413fa59e70b40a3ac13b1c99660c7211354b1b
                 </section>
             </main>
         </div>

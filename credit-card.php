@@ -40,7 +40,7 @@
                         Another SAPB advantage is that you can make your payments at the branch, online or by mail. Local service also means you can speak to your SAPB loan officer should you need to increase your credit line.<br><br>
                         </p>
                     </div>  
-                    <p>You can shop locally and travel the world with your MasterCard issued from Horizon Trustco Bank. Call info@horizontrustco.com today and speak with one of our <a href="#" style="color: blue;">loan officers </a>to learn more about the local service, low interest rate, MasterCard with worldwide access.</p>   
+                    <p>You can shop locally and travel the world with your MasterCard issued from Horizon Trustco Bank. Call info@horizontrustco.com today and speak with one of our <a href="loan-officers" style="color: blue;">loan officers </a>to learn more about the local service, low interest rate, MasterCard with worldwide access.</p>   
                     
                     <p class="mt-5">If you already have a Credit MasterCard with SAPB and you want to manage your account online then go to the following site: <a href="#">https://www.mycardstatement.com</a></p>
                 </div><br>           
