@@ -145,7 +145,7 @@ require_once('components/header.php');
             order to reach your retirement goals. We offer Traditional, Roth, and Educational (Coverdale) IRAs. At SAPB,
             your IRA will be invested in a Certificate(s) of Deposit with your choice of various maturities. An IRA CD
             from
-            Horizon Trustco is a solid investment.
+            Royal Union is a solid investment.
           </p>
 
           <p class="title wow fadeInUp" data-wow-delay="0.9s"
@@ -162,7 +162,7 @@ require_once('components/header.php');
 
           <p class="title wow fadeInUp" data-wow-delay="0.9s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
-            A Health Savings Account (HSA) from Horizon Trustco Bank is a great way to save for your health care
+            A Health Savings Account (HSA) from Royal Union Bank is a great way to save for your health care
             expenses
             while taking advantage of tax savings. If you qualify, then an HSA offers these benefits:
           </p>
@@ -201,7 +201,7 @@ require_once('components/header.php');
 
           <p class="title wow fadeInUp" data-wow-delay="0.9s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
-            At Horizon Trustco Bank, a Health Savings Account may be opened with a minimum deposit of only $100. We
+            At Royal Union Bank, a Health Savings Account may be opened with a minimum deposit of only $100. We
             offer
             both Self-only and Family coverage plans. A Free Instant Issue Debit MasterCard or personalized checks may
             be
@@ -213,8 +213,8 @@ require_once('components/header.php');
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
             For more information about an HSA account, please contact one of our Customer Service Representatives. You
             should also consult with your health care insurance provider to see if you qualify and with your tax
-            professional for tax compliance advice. Horizon Trustco Bank does not sell health insurance directly to the
-            public or provide advice on health coverage. Horizon Trustco Bank does not provide tax preparation service
+            professional for tax compliance advice. Royal Union Bank does not sell health insurance directly to the
+            public or provide advice on health coverage. Royal Union Bank does not provide tax preparation service
             or
             advice on tax matters.
           </p>

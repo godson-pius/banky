@@ -55,7 +55,7 @@ require_once('components/header.php') ?>
                                 </div>
                                 <div>
                                     <p>Email us:</p>
-                                    <span>hello@banca.com</span>
+                                    <span>hello@royal Union.com</span>
                                 </div>
                             </div>
                         </div>
@@ -212,7 +212,7 @@ require_once('components/header.php') ?>
                                 <div class="w-100">
                                     <div class="faq-header" id="headingTwo">
                                         <h4 class="mb-0 collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                                            How much can I Banca?<i class="icon_plus"></i><i class=" icon_minus-06"></i>
+                                            How much can I Royal Union?<i class="icon_plus"></i><i class=" icon_minus-06"></i>
                                         </h4>
                                     </div>
 
@@ -313,7 +313,7 @@ require_once('components/header.php') ?>
                         <div class="row align-items-center">
                             <div class="col-lg-7">
                                 <div class="cta-content wow fadeInRight text-center text-lg-start">
-                                    <h2 class="mb-0">Meet Banca, the financial partner you can bank on.</h2>
+                                    <h2 class="mb-0">Meet Royal Union, the financial partner you can bank on.</h2>
                                 </div>
                             </div>
 

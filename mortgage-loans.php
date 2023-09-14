@@ -36,7 +36,7 @@
 
                     <div class="col-lg-8 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">
                         <p>
-                        Home loans from Horizon Trustco Bank come in all sizes and shapes. Our people are eager to lend you their experience to find the right loan to finance the purchase of a new home or to refinance your existing home. Having a lender with whom you can speak face to face can make the process so much easier. Plus you can feel good about dealing with a bank with a century long track record of service. Whether it is a construction loan or permanent financing, Horizon Trustco Bank has many home loan options.  <br><br>                    
+                        Home loans from Royal Union Bank come in all sizes and shapes. Our people are eager to lend you their experience to find the right loan to finance the purchase of a new home or to refinance your existing home. Having a lender with whom you can speak face to face can make the process so much easier. Plus you can feel good about dealing with a bank with a century long track record of service. Whether it is a construction loan or permanent financing, Royal Union Bank has many home loan options.  <br><br>                    
                         </p>
                     </div>   
                     <p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">The best way learn your options is to schedule a meeting with a local lender today to learn more about a loan that works for you.</p>                
@@ -68,7 +68,11 @@
                     <p class="mt-4 pb-4 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">Are you looking ahead to build or develop? Come in and speak to one of our lenders about that lot or land you are considering.</p>
                     <hr/>
                     
+<<<<<<< HEAD
                     <p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">Contact us and let Horizon Trustco Bank guide you through the home loan process!</p>
+=======
+                    <p>Contact us and let Royal Union Bank guide you through the home loan process!</p>
+>>>>>>> 665b761 (Updated former names and logo)
                 </div>             
 
 

@@ -124,7 +124,7 @@ require_once('components/header.php') ?>
 
                             <p class="title wow fadeInUp" data-wow-delay="0.9s"
                                 style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
-                                A Health Savings Account (HSA) from Horizon Trustco Bank is a great way to save for your
+                                A Health Savings Account (HSA) from Royal Union Bank is a great way to save for your
                                 health care expenses while taking advantage of tax savings. If you qualify, then an HSA
                                 offers these benefits:
                             </p>
@@ -170,15 +170,15 @@ require_once('components/header.php') ?>
 
                             <p class="title wow fadeInUp" data-wow-delay="0.9s"
                                 style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
-                                At Horizon Trustco Bank, a Health Savings Account may be opened with a minimum deposit
+                                At Royal Union Bank, a Health Savings Account may be opened with a minimum deposit
                                 of only $100. We offer both Self-only and Family coverage plans. A Free Instant Issue
                                 Debit MasterCard or personalized checks may be obtained so that you may make qualified
                                 payments from your HSA account directly to your health care providers. <br><br>
                                 For more information about an HSA account, please contact one of our Customer Service
                                 Representatives. You should also consult with your health care insurance provider to see
-                                if you qualify and with your tax professional for tax compliance advice. Horizon Trustco
+                                if you qualify and with your tax professional for tax compliance advice. Royal Union
                                 Bank does not sell health insurance directly to the public or provide advice on health
-                                coverage. Horizon Trustco Bank does not provide tax preparation service or advice on tax
+                                coverage. Royal Union Bank does not provide tax preparation service or advice on tax
                                 matters.
                             </p>
 

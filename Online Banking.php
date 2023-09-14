@@ -214,7 +214,7 @@ require_once('components/header.php') ?>
                                     <div class="caption">
                                         <h2>Growing in Jonesboro</h2>
                                         <p>
-                                            Horizon Trustco Financial Park
+                                            Royal Union Financial Park
                                         </p>
                                     </div>
                                 </div>

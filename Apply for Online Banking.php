@@ -86,7 +86,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4">
-                    <h3>Horizon Trustco</h3>
+                    <h3>Royal Union</h3>
                     <p>Begin your journey with us today to enable us constantly improve your ing experiences.</p>
                     <!-- <div class="icon-links icon-social icon-links-grid social-colors">
                         <a class="facebook"><i class="icon-facebook"></i></a>
@@ -113,7 +113,7 @@
         </div>
         <div class="footer-bar">
             <div class="container">
-                <span>© Horizon Trustco  2023.</span> -  <a href="privacy">Privacy policy</a>
+                <span>© Royal Union  2023.</span> -  <a href="privacy">Privacy policy</a>
                 <span>Federal Deposit Insurance Corporation | <img src="media/fdic.png" width="30" alt=""> </span>
             </div>
         </div>

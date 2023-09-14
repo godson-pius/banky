@@ -65,7 +65,7 @@ require_once('components/header.php') ?>
                     Mobile Wallet is also available for your Debit Mastercard to make
                     purchases using your phone. <br>
                     The Debit card ATM withdrawal limit is $500 per day. There is a $1 per transaction fee for cash
-                    withdrawals from ATMs not owned by Horizon Trustco Bank of Paragould, Arkansas. There may also
+                    withdrawals from ATMs not owned by Royal Union Bank of Paragould, Arkansas. There may also
                     be a transaction fee assessed by the owner of the ATM.
                 </p>
             </div>
@@ -113,7 +113,7 @@ require_once('components/header.php') ?>
                     right here at SAPB.
                     Local service also means you can speak to your SAPB loan officer when you need to increase your
                     credit line. <br><br>
-                    You can shop locally or travel the world and with your MasterCard issued from Horizon Trustco Bank.
+                    You can shop locally or travel the world and with your MasterCard issued from Royal Union Bank.
                     Call today and speak with one of our loan officers for complete details about the local credit card
                     with worldwide access.
                 </p>
