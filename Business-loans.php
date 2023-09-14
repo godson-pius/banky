@@ -43,14 +43,14 @@ require_once('components/header.php') ?>
                     <h3 class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.3s;">We offer</h3>
                     <p>
                     </p>
-                    <ul>
+                    <ul class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">
                         <li>-Commercial Real Estate</li>
                         <li>-Construction</li>
                         <li>-Equipment Purchase</li>
                         <li>-Business Expansion</li>
                         <li>-Seasonal Inventory Need</li>
                     </ul><br>
-                    <p class=" p-5"> For more detailed information come in to any of our convenient locations. To request a meeting with a loan officer at one of our branches, please complete our <a href="lending-service-apply" style="color: blue;">Jumpstart application.</a> Email Us during business hours at info@horizontrustco.com.</p>
+                    <p class=" p-5 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;"> For more detailed information come in to any of our convenient locations. To request a meeting with a loan officer at one of our branches, please complete our <a href="lending-service-apply" style="color: blue;">Jumpstart application.</a> Email Us during business hours at info@horizontrustco.com.</p>
 
                 </div>
 

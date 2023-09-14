@@ -34,11 +34,11 @@ require_once('components/header.php') ?>
 
                 <div class="row row-fit-lg">
 
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">
                         <img src="https://horizontrustco.com/media/box-3.png" alt="" style=" width: 90%">
                     </div>
 
-                    <div class="col-lg-8">
+                    <div class="col-lg-8 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">
                         <p>
                             Perhaps you are shopping for a vehicle or another personal need. Call a lender at info@swissapexprivateb.com or
                             come in to one of our branches. You may also complete a <a href="lending-service-apply" style="color: blue;">Jumpstart application</a> to set-up a meeting with a lender at a
@@ -52,7 +52,7 @@ require_once('components/header.php') ?>
                     </div>
                 </div><br>
 
-                <div>
+                <div class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">
                     <h3 class="fw-bold">Other Lending Services.</h3>
                     <p>
                     </p>
