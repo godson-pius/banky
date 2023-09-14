@@ -25,7 +25,7 @@
             <div class="container">
 
             <P class="mb-4">Check the box(es) below to select the service(s) for which you are applying and then complete the personal information fields. Read the various disclosures and if you agree click the "Submit" button at the bottom of the page.<br>
-             <span class="bg-warning">NB: * Indicates a required field</span></P>
+             <span class="fw-bold" style="background: yellow;">NB: * Indicates a required field.</span></P>
 
                 <div class="title">
                     <h3 class="fw-bold">Bank Services</h3>
