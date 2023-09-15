@@ -25,24 +25,24 @@
             <div class="container">
 
                 <div class="title">
-                    <h3>MasterCard</h3>
+                    <h3 class="fw-bold wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">MasterCard.</h3>
                 </div>
 
                 <div class="row row-fit-lg">  
 
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">
                         <img src="https://horizontrustco.com/media/box-3.png" alt="" style=" width: 90%">
                     </div>
 
                     <div class="col-lg-8">
-                        <p>
+                        <p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">
                         Low rates. Local service. Worldwide access. These are a few advantages a MasterCard credit card from Horizon Trustco Bank has over an out-of-state credit card company. Many credit cards employ a "bait and switch" tactic to lure you with a low "introductory" rate then raise your rate after a few months. But the trusted lenders SAPB offer you a consistently competitive rate and personal service with bankers you may speak with in person at a local branch.  <br><br>
                         Another SAPB advantage is that you can make your payments at the branch, online or by mail. Local service also means you can speak to your SAPB loan officer should you need to increase your credit line.<br><br>
                         </p>
                     </div>  
-                    <p>You can shop locally and travel the world with your MasterCard issued from Horizon Trustco Bank. Call info@horizontrustco.com today and speak with one of our <a href="#" style="color: blue;">loan officers </a>to learn more about the local service, low interest rate, MasterCard with worldwide access.</p>   
+                    <p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">You can shop locally and travel the world with your MasterCard issued from Horizon Trustco Bank. Call info@horizontrustco.com today and speak with one of our <a href="loan-officers" style="color: blue;">loan officers </a>to learn more about the local service, low interest rate, MasterCard with worldwide access.</p> 
                     
-                    <p class="mt-5">If you already have a Credit MasterCard with SAPB and you want to manage your account online then go to the following site: <a href="#">https://www.mycardstatement.com</a></p>
+                    <p class="mt-5 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">If you already have a Credit MasterCard with SAPB and you want to manage your account online then go to the following site: <a href="#">https://www.mycardstatement.com</a></p>
                 </div><br>           
 
             </div>

@@ -81,6 +81,7 @@ require_once('components/header.php') ?>
                                     to a SAPB Office near you.
                                 </p>
                             </div>
+<<<<<<< HEAD
 
                             <div class="col-lg-4">
                                 <div class="grid-item">
@@ -132,6 +133,46 @@ require_once('components/header.php') ?>
 
 
 
+=======
+                        </div>
+                    </div>
+                </div>
+            
+    <footer class="light">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <h3>Royal Union</h3>
+                    <p>Begin your journey with us today to enable us constantly improve your ing experiences.</p>
+                    <!-- <div class="icon-links icon-social icon-links-grid social-colors">
+                        <a class="facebook"><i class="icon-facebook"></i></a>
+                        <a class="twitter"><i class="icon-twitter"></i></a>
+                        <a class="instagram"><i class="icon-instagram"></i></a>
+                        <a class="pinterest"><i class="icon-pinterest"></i></a>
+                    </div> -->
+                </div>
+                <div class="col-lg-4">
+                    <h3>Resources</h3>
+                    <ul class="icon-list icon-line">
+                        <li><a href="contacts">About us </a></li>
+                        <li><a href="contacts">Contact us</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-4">
+                    <ul class="text-list text-list-line">
+                        <li><b>Address</b><hr><p>Vietnam</p></li>
+                        <li><b>Email</b><hr><p>info@horizontrustco.com</p></li>
+                        <li><b>Opening hours</b><hr><p>8:30AM - 4PM</p></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bar">
+            <div class="container">
+                <span>© Royal Union  2023.</span> -  <a href="privacy">Privacy policy</a>
+                <span>Federal Deposit Insurance Corporation | <img src="media/fdic.png" width="30" alt=""> </span>
+            </div>
+>>>>>>> 5f0a63c301e64ab90080472879c22cf28cfa8f3f
         </div>
     </section>
     <!-- Content ends here -->

@@ -42,7 +42,7 @@ require_once('components/header.php') ?>
                                     style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 30px;">
                                     Welcome to First Take! Our marketing team hosts a bi-weekly podcast that gives you
                                     the latest news and
-                                    information on the banking world as well as things going on at Horizon Trustco Bank.
+                                    information on the banking world as well as things going on at Royal Union Bank.
                                     First Take: The Least Boring Banking Podcast is available
                                     here(Opens in a new Window) or wherever you listen to your podcasts.
                                 </p><br>
@@ -123,7 +123,7 @@ require_once('components/header.php') ?>
                                 <p class="title wow fadeInUp" data-wow-delay="0.9s"
                                     style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 30px;">
                                     Once again, this legislation still has a long way to go before ever becoming law.
-                                    That being said, Horizon Trustco Bank
+                                    That being said, Royal Union Bank
                                     recognizes the concern from our customers and wanted to bring you the facts as we
                                     knew them.
                                 </p><br>

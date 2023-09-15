@@ -93,7 +93,7 @@
                                 </ul>
                             </li>
                             <li class="nav-item dropdown submenu">
-                                <a class="nav-link dropdown-toggle" href="career.html" role="button"
+                                <a class="nav-link dropdown-toggle" href="#" role="button"
                                     data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     Lending Services
                                 </a>
@@ -107,7 +107,7 @@
                                     <li class="nav-item"><a class="nav-link" href="loan-officers">Loan Officers</a>
                                     <li class="nav-item"><a class="nav-link" href="credit-card">Credit Cards</a>
                                     <li class="nav-item"><a class="nav-link" href="job-post.html">Credit Card LOGIN</a>
-                                    <li class="nav-item"><a class="nav-link" href="lending-service-apply">Apply</a>
+                                    <li class="nav-item"><a class="nav-link" href="Apply">Apply</a>
                                     </li>
                                 </ul>
                             </li>
@@ -131,28 +131,28 @@
                                 </ul>
                             </li>
                             <li class="nav-item dropdown submenu">
-                                <a class="nav-link dropdown-toggle" href="blog.html" role="button"
+                                <a class="nav-link dropdown-toggle" href="#" role="button"
                                     data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     Get In Touch
                                 </a>
                                 <i class="arrow_carrot-down_alt2 mobile_dropdown_icon" aria-hidden="false"
                                     data-bs-toggle="dropdown"></i>
                                 <ul class="dropdown-menu ">
-                                    <li class="nav-item"><a class="nav-link" href="blog.html">About us</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="contact">About us</a></li>
                                     <li class="nav-item"><a class="nav-link" href="contact">Contact us</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="blog.html">Location and Hours</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="blog-details.html">Bank News</a>
-                                    <li class="nav-item"><a class="nav-link" href="blog-details.html">Careers</a>
-                                    <li class="nav-item"><a class="nav-link" href="blog-details.html">Lost or Stolen Cards</a>
-                                    <li class="nav-item"><a class="nav-link" href="blog-details.html">Forgot ONline Banking Password</a>
-                                    <li class="nav-item"><a class="nav-link" href="blog-details.html">Coronavirus Update</a>
+                                    <li class="nav-item"><a class="nav-link" href="contact">Location and Hours</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="contact">Bank News</a>
+                                    <li class="nav-item"><a class="nav-link" href="contact">Careers</a>
+                                    <li class="nav-item"><a class="nav-link" href="contact">Lost or Stolen Cards</a>
+                                    <li class="nav-item"><a class="nav-link" href="contact">Forgot ONline Banking Password</a>
+                                    <li class="nav-item"><a class="nav-link" href="contact">Coronavirus Update</a>
                                     </li>
                                 </ul>
                             </li>
                         </ul>
-                        <a class="theme-btn theme-btn-rounded-2 theme-btn-alt"
-                            href="https://themeforest.net/item/banca-banking-business-loan-bootstrap5html-website-template/32788885?s_rank=9"
-                            target="_blank">Buy Banca</a>
+                        <!-- <a class="theme-btn theme-btn-rounded-2 theme-btn-alt"
+                            href="https://themeforest.net/item/royal Union-banking-business-loan-bootstrap5html-website-template/32788885?s_rank=9"
+                            target="_blank">Buy Royal Union</a> -->
                         <div class="px-2 js-darkmode-btn" title="Toggle dark mode">
                             <label for="something" class="tab-btn tab-btns">
                                 <ion-icon name="moon"></ion-icon>
