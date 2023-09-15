@@ -57,9 +57,9 @@ require_once('components/header.php') ?>
                     <p>
                     </p>
                     <ul>
-                        <li>-MasterCard credit card</li>
-                        <li>-Vacations</li>
-                        <li>-Educational expenses</li>
+                    <li><i class="fas fa-check-circle" ; style="color : blue">MasterCard Credit Card</i></li>
+                    <li><i class="fas fa-check-circle" ; style="color : blue"></i>Vacations</li>
+                    <li><i class="fas fa-check-circle" ; style="color : blue"></i>Educational Expenses</li>
                     </ul><br>
 
                     Let us help with your future plans. To request a meeting with a loan officer at one of our

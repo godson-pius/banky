@@ -68,11 +68,7 @@
                     <p class="mt-4 pb-4 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">Are you looking ahead to build or develop? Come in and speak to one of our lenders about that lot or land you are considering.</p>
                     <hr/>
                     
-<<<<<<< HEAD
-                    <p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">Contact us and let Horizon Trustco Bank guide you through the home loan process!</p>
-=======
-                    <p>Contact us and let Royal Union Bank guide you through the home loan process!</p>
->>>>>>> 665b761 (Updated former names and logo)
+                    <p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">Contact us and let Royal Union Bank guide you through the home loan process!</p>
                 </div>             
 
 

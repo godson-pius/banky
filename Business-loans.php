@@ -44,11 +44,11 @@ require_once('components/header.php') ?>
                     <p>
                     </p>
                     <ul class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">
-                        <li>-Commercial Real Estate</li>
-                        <li>-Construction</li>
-                        <li>-Equipment Purchase</li>
-                        <li>-Business Expansion</li>
-                        <li>-Seasonal Inventory Need</li>
+                    <li><i class="fas fa-check-circle" ; style="color : blue"></i> Commercial Estate.</li>
+                    <li><i class="fas fa-check-circle" ; style="color : blue"></i> Construction.</li>
+                    <li><i class="fas fa-check-circle" ; style="color : blue"></i> Equipment Purchase.</li>
+                    <li><i class="fas fa-check-circle" ; style="color : blue"></i> Business Expansion.</li>
+                    <li><i class="fas fa-check-circle" ; style="color : blue"></i> Seasonal Expansion.</li>
                     </ul><br>
                     <p class=" p-5 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;"> For more detailed information come in to any of our convenient locations. To request a meeting with a loan officer at one of our branches, please complete our <a href="lending-service-apply" style="color: blue;">Jumpstart application.</a> Email Us during business hours at info@horizontrustco.com.</p>
 

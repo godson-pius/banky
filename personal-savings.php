@@ -34,14 +34,14 @@ require_once('components/header.php');
       <!-- Start writing code from here -->
       <section class="bank-app-showcase-area bg-white">
         <div class="container">
-          <h3 class="font-weight-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
+          <h3 class="fw-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
             data-wow-delay="0.3s">Earn, Grow, Save!</h3>
 
           <div class="row align-items-center flex-row-reverse">
             <div class="col-lg-6 offset-lg-1">
               <div class="app-content">
                 <div class="section-title bank-section-title text-start">
-                  <p class="title wow fadeInUp" data-wow-delay="0.9s"
+                  <p class="title wow fadeInUp" data-wow-delay="0.3s"
                     style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
                     You've earned it. Now watch it grow! These FDIC insured accounts pay competitive
                     yields on your savings. Your money will be available should you need it, and
@@ -54,8 +54,8 @@ require_once('components/header.php');
               <img class="img-fluid mb-4" src="https://www.horizontrustco.com/media/box-3.png" alt="Bank Image">
             </div>
           </div>
-          <h3 class="font-weight-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
-            data-wow-delay="0.9s">Regular Savings</h3>
+          <h3 class="fw-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
+            data-wow-delay="0.3s">Regular Savings</h3>
           <p class="title wow fadeInUp" data-wow-delay="0.9s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
             Pay yourself as regularly as you are paid. Begin saving every payday in a Regular Savings Account at SAPB.
@@ -131,7 +131,7 @@ require_once('components/header.php');
             pay the penalty on just the amount withdrawn.
           </p>
 
-          <p class="title wow fadeInUp" data-wow-delay="0.9s"
+          <p class="title wow fadeInUp" data-wow-delay="0.3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
             For complete details or to invest in a CD, come in and see a Customer Service Representative at one of our
             local branches or call info@horizontrustco.com. View current rates and terms of CDs.
