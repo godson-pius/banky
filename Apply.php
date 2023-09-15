@@ -1,4 +1,4 @@
-<?php $page_title = "Personal Checking";
+<?php $page_title = "Apply";
 require_once('components/header.php') ?>
 <!-- Header end-->
 
@@ -36,14 +36,15 @@ require_once('components/header.php') ?>
                     <div class="container">
 
                         <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; c margin-top: 25px; margin-bottom: 20px;">
                             Check the box(es) below to select the service(s) for which you are applying and
                             then complete the personal information fields. Read the various disclosures and if you agree
                             click the "Submit" button at the bottom of the page.<br>
                             <span class="bg-warning">NB: * Indicates a required field</span>
                         </p>
 
-                        <h3 class="fw-bold" style="color: rgb(0, 71, 103);margin-top: 25px; margin-bottom: 20px;">Bank Services</h3>
+                        <h3 class="fw-bold" style="color: rgb(0, 71, 103);margin-top: 25px; margin-bottom: 20px;">Bank
+                            Services</h3>
 
                         <div class="row row-fit-lg">
                             <div>
@@ -60,13 +61,16 @@ require_once('components/header.php') ?>
                                     <label for="loan" class="form-check-label">Loan</label>
                                 </div>
 
-                                <h3 class="fw-bold" style="color: rgb(0, 71, 103);margin-top: 25px; margin-bottom: 20px;">Personal Information</h3>
-                                <form action="#" class="form-box form-ajax"
-                                    method="post" data-email="example@domain.com">
+                                <h3 class="fw-bold"
+                                    style="color: rgb(0, 71, 103);margin-top: 25px; margin-bottom: 20px;">Personal
+                                    Information</h3>
+                                <form action="#" class="form-box form-ajax" method="post"
+                                    data-email="example@domain.com">
                                     <div class="row">
                                         <div class="col-lg-6">
                                             <div class="form-group">
-                                                <label for="firstname">Firstname <span class="text-danger">*</span></label>
+                                                <label for="firstname">Firstname <span
+                                                        class="text-danger">*</span></label>
                                                 <input id="firstname" name="Firstname *" placeholder="Firstname"
                                                     type="text" class="form-control" required="" ;
                                                     class="form-control rounded-10" style="height: 55px;">
@@ -74,7 +78,8 @@ require_once('components/header.php') ?>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="form-group">
-                                                <label for="middlename">Middle name<span class="text-danger">*</span></label>
+                                                <label for="middlename">Middle name<span
+                                                        class="text-danger">*</span></label>
                                                 <input id="middlename" name="Middle Name or Initial"
                                                     placeholder="Middle name or Initial" type="text"
                                                     ;class="form-control rounded-10" style="height: 55px;"
@@ -85,7 +90,8 @@ require_once('components/header.php') ?>
                                     <div class="row">
                                         <div class="col-lg-6">
                                             <div class="form-group">
-                                                <label for="lastname">Lastname <span class="text-danger">*</span></label>
+                                                <label for="lastname">Lastname <span
+                                                        class="text-danger">*</span></label>
                                                 <input id="lastname" name="Lastname" placeholder="Lastname *"
                                                     type="text" ; class="form-control rounded-10" style="height: 55px;"
                                                     class="form-control" required="">
@@ -93,7 +99,8 @@ require_once('components/header.php') ?>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="form-group">
-                                                <label for="dob">Date of Birth <span class="text-danger">*</span></label>
+                                                <label for="dob">Date of Birth <span
+                                                        class="text-danger">*</span></label>
                                                 <input id="dob" name="Date of Birth" placeholder="(mm/dd/yy)"
                                                     type="date" ; class="form-control rounded-10" style="height: 55px;"
                                                     class="form-control">
@@ -103,7 +110,8 @@ require_once('components/header.php') ?>
                                     <div class="row">
                                         <div class="col-lg-6">
                                             <div class="form-group">
-                                                <label for="street">Current Street Address <span class="text-danger">*</span></label>
+                                                <label for="street">Current Street Address <span
+                                                        class="text-danger">*</span></label>
                                                 <input id="street" name="Current Street Address"
                                                     placeholder="Current Street Address *" type="text" ;
                                                     class="form-control rounded-10" style="height: 55px;"
@@ -140,7 +148,8 @@ require_once('components/header.php') ?>
                                     <div class="row">
                                         <div class="col-lg-6">
                                             <div class="form-group">
-                                                <label for="primaryphone">Primary Phone Number <span class="text-danger">*</span></label>
+                                                <label for="primaryphone">Primary Phone Number <span
+                                                        class="text-danger">*</span></label>
                                                 <input id="primaryphone" name="Primary phone number"
                                                     placeholder="Primary Phone Number *" type="tel"
                                                     ;class="form-control rounded-10" style="height: 55px;"
@@ -149,7 +158,8 @@ require_once('components/header.php') ?>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="form-group">
-                                                <label for="secondaryphone">Secondary Phone Number<span class="text-danger">*</span></label>
+                                                <label for="secondaryphone">Secondary Phone Number<span
+                                                        class="text-danger">*</span></label>
                                                 <input id="secondaryphone" name="secondary phone number"
                                                     placeholder="Secondary Phone Number" type="tel"
                                                     ;class="form-control rounded-10" style="height: 55px;"
@@ -160,7 +170,8 @@ require_once('components/header.php') ?>
                                     <div class="row">
                                         <div class="col-lg-6">
                                             <div class="form-group">
-                                                <label for="email">Email Address <span class="text-danger">*</span></label>
+                                                <label for="email">Email Address <span
+                                                        class="text-danger">*</span></label>
                                                 <input id="email" name="email address" placeholder="Email Address *"
                                                     type="email" ;class="form-control rounded-10" style="height: 55px;"
                                                     class="form-control" required="">
@@ -168,7 +179,8 @@ require_once('components/header.php') ?>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="form-group">
-                                                <label for="occupation">Occupation <span class="text-danger">*</span></label>
+                                                <label for="occupation">Occupation <span
+                                                        class="text-danger">*</span></label>
                                                 <input id="occupation" name="occupation" placeholder="Occupation *"
                                                     type="text" ;class="form-control rounded-10" style="height: 55px;"
                                                     class="form-control" required="">
@@ -178,7 +190,8 @@ require_once('components/header.php') ?>
                                     <div class="row">
                                         <div class="col-lg-6">
                                             <div class="form-group">
-                                                <label for="maritalstatus">Marital Status <span class="text-danger">*</span></label>
+                                                <label for="maritalstatus">Marital Status <span
+                                                        class="text-danger">*</span></label>
                                                 <select id="maritalstatus" ; class="form-control rounded-10"
                                                     style="height: 55px;" class="form-control">
                                                     <option>Single</option>
@@ -193,21 +206,24 @@ require_once('components/header.php') ?>
                                                 <label for="gender" ;>Gender <span class="text-danger">*</span></label>
                                                 <select id="gender" class="form-control rounded-10"
                                                     style="height: 55px;">
-                    <option>Male</option>
-                    <option>Female</option>
-                    <option>Other</option>
-                </select>
-            </div>
-        </div>
-        <button class="btn btn-primary m-4" type="submit">SUBMIT</button>
-    </div>
-</form>
-
-
+                                                    <option>Male</option>
+                                                    <option>Female</option>
+                                                    <option>Other</option>
+                                                </select>
+                                            </div>
                                         </div>
-                                </div><br>
+                                        <div class="text-right">
+                                            <button class="btn btn-primary m-6 mt-4" type="submit">SUBMIT</button>
+                                        </div>
 
-                         </div>
+                                    </div>
+                                </form>
+
+
+                            </div>
+                        </div><br>
+
+                    </div>
                 </section>
             </main>
         </div>

@@ -43,13 +43,13 @@ require_once('components/header.php') ?>
 
                 <div class="col-lg-8">
                     <div class="title wow fadeInUp" data-wow-delay="0.9s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 30px;">
                         <h2 class="fw-bold" ; style=" color: rgb(0, 71, 103);">Your First Business Checking
                         </h2>
                     </div>
 
                     <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 30px;">
                         Perfect for most businesses! <br>
                         NO minimum balance requirements. <br>
                         NO monthly service charge. <br>
@@ -97,14 +97,14 @@ require_once('components/header.php') ?>
                         </div>
 
                         <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px; margin-bottom: 20px;">
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 30px; margin-bottom: 20px;">
                             Save regularly and watch your savings grow!
                             You will earn a competitive rate of interest on your funds deposited in a Regular Savings
                             Account.
                         </p>
 
                         <ul class="title wow fadeInUp" data-wow-delay="0.9s"
-                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px; margin-bottom: 20px;">
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 30px; margin-bottom: 20px;">
                             <li style="line-height: 40px;"><i class="fas fa-check-circle" style="color: blue;"></i>
                                 Minimum balance required is only $10</li>
                             <li style="line-height: 40px;"><i class="fas fa-check-circle" style="color: blue;"></i> $3
@@ -119,18 +119,18 @@ require_once('components/header.php') ?>
                         </ul>
 
                         <div class="title wow fadeInUp" data-wow-delay="0.9s"
-                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 30px;">
                             <h2 class="fw-bold" ; style=" color: rgb(0, 71, 103);">Health Savings Account (HSA)</h2>
 
                             <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
                                 A Health Savings Account (HSA) from Horizon Trustco Bank is a great way to save for your
                                 health care expenses while taking advantage of tax savings. If you qualify, then an HSA
                                 offers these benefits:
                             </p>
 
                             <ul class="title wow fadeInUp" data-wow-delay="0.9s"
-                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
                                 <li style="line-height: 40px;"><i class="fas fa-check-circle"
                                         style="color: blue;"></i>Tax-deductible contributions and distributions</li>
                                 <li style="line-height: 40px;"><i class="fas fa-check-circle"
@@ -149,7 +149,7 @@ require_once('components/header.php') ?>
 
 
                             <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 25px; margin-bottom: 20px;">
                                 Whether you qualify for an HSA depends on your health insurance coverage. You must be
                                 covered under an HSA-eligible high deductible health plan (HDHP) to contribute to an
                                 HSA. An HDHP generally requires that you pay out of pocket for medical expenses incurred
@@ -159,7 +159,7 @@ require_once('components/header.php') ?>
                                 eligible. In addition to having HSA-eligible HDHP coverage, you:
                             </p>
                             <ul class="title wow fadeInUp" data-wow-delay="0.9s"
-                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
                                 <li><i class="fas fa-check-circle" style="color: blue; line-height: 40px;"></i> Cannot
                                     be covered by another health plan</li>
                                 <li><i class="fas fa-check-circle" style="color: blue; line-height: 40px;"></i> Cannot
@@ -169,7 +169,7 @@ require_once('components/header.php') ?>
                             </ul>
 
                             <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 25px; margin-bottom: 20px;">
                                 At Horizon Trustco Bank, a Health Savings Account may be opened with a minimum deposit
                                 of only $100. We offer both Self-only and Family coverage plans. A Free Instant Issue
                                 Debit MasterCard or personalized checks may be obtained so that you may make qualified
@@ -182,17 +182,18 @@ require_once('components/header.php') ?>
                                 matters.
                             </p>
 
+
                             <p></p>
                         </div>
                         <div style="margin-top: 70px; margin-bottom: 50px;">
                             <div class="title wow fadeInUp" data-wow-delay="0.9s"
-                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 30px;">
+                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 30px;">
                                 <h2 class="fw-bold" style=" color: rgb(0, 71, 103);">Reorder Checks</h2>
                             </div>
                         </div>
 
                         <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
                             If you currently have a checking account with us, you can now reorder checks right here.
                             Please allow 7 – 10 business days to receive your checks.
                         </p>
@@ -203,9 +204,10 @@ require_once('components/header.php') ?>
                                 Services</h2>
                         </div>
                         <ul class="title wow fadeInUp" data-wow-delay="0.9s"
-                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
+
                             <ul class="mt-4 title wow fadeInUp" data-wow-delay="0.9s"
-                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 25px; margin-bottom: 20px;">
                                 <li><i class="fas fa-check-circle" style="color: blue;"></i> Business Loans</li>
                                 <li><i class="fas fa-check-circle" style="color: blue;"></i> Night Deposit Services</li>
                                 <li><i class="fas fa-check-circle" style="color: blue;"></i> Credit Card Acceptance</li>
@@ -217,7 +219,7 @@ require_once('components/header.php') ?>
 
 
                             <p class="mt-4 title wow fadeInUp" data-wow-delay="0.9s"
-                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
                                 Time is money! Why spend both by going to the bank to deposit checks? Watch to learn how
                                 Remote Deposit Capture can improve your business! <br>
                                 Email Us with your special business needs. We're ready to work for you!
@@ -241,7 +243,7 @@ require_once('components/header.php') ?>
                                 The interest rate and Annual Percentage Yield (APY) are subject to change weekly.
                             </p>
                             <div class="mt-4 title wow fadeInUp" data-wow-delay="0.9s"
-                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 25px; margin-bottom: 20px;">
                                 <h2>Disclosure For All Interest Bearing Deposit Accounts</h2>
                             </div>
 

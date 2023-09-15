@@ -1,4 +1,4 @@
-<?php $page_title = "Personal Checking";
+<?php $page_title = "Switch Kit";
 require_once('components/header.php') ?>
 <!-- Header end-->
 
@@ -38,7 +38,7 @@ require_once('components/header.php') ?>
             </div>
 
             <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; margin-top: 25px; margin-bottom: 20px;">
                 Every year more people are making the switch to Horizon Trustco Bank. Customers who’ve made
                 the switch
                 enjoyed many benefits including: improved convenience, friendly service and lower fees! But
@@ -58,7 +58,7 @@ require_once('components/header.php') ?>
 
                 <div class="col-lg-8">
                     <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
                         Our Customer Service Representatives (CSRs) are eager to guide you through the
                         process of switching to Horizon Trustco Bank. The process begins when you <a href="Apply.php"
                             style="color: blue;">open a new account</a> with SAPB. Once
@@ -82,7 +82,7 @@ require_once('components/header.php') ?>
             <hr class="space">
 
             <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
                 Automatic payments for recurring payments such as utility bills, insurance premiums or other
                 monthly
                 expenses are also very popular. Should you want to establish or switch an automatic payment

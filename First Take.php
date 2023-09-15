@@ -1,4 +1,4 @@
-<?php $page_title = "Personal Checking";
+<?php $page_title = "First Take";
 require_once('components/header.php') ?>
 <!-- Header end-->
 

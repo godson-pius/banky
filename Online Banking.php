@@ -1,4 +1,4 @@
-<?php $page_title = "Personal Checking";
+<?php $page_title = "Online Banking";
 require_once('components/header.php') ?>
 <!-- Header end-->
 
@@ -31,7 +31,7 @@ require_once('components/header.php') ?>
                 <div class="row row-fit-lg">
                     <div class="col-lg-8">
                         <p class="title wow fadeInUp" data-wow-delay="0.9s"
-                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 100px; margin-bottom: 20px;">
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 100px; margin-bottom: 20px;">
                             Check the box(es) below to select the service(s) for which you are applying and
                             then complete the personal information fields. Read the various disclosures and if you agree
                             click the "Submit" button at the bottom of the page.<br>
@@ -39,13 +39,18 @@ require_once('components/header.php') ?>
                         </p>
                         <h3 class="fw-bold" style="color: rgb(0, 71, 103);margin-top: 25px; margin-bottom: 20px;">Bank
                             Services</h3><br>
-                        <label class="form-check-label">
-                            <input class="form-check-input" type="checkbox" name="remember"> Online Banking
-                        </label><br>
-                        <label class="form-check-label">
-                            <input class="form-check-input" type="checkbox" name="remember"> Loan
-                        </label>
-                        <p></p><br>
+                        <div class="form-check title wow fadeInUp" data-wow-delay="0.9s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                            <input type="checkbox" id="onlineBanking" name="service[]" value="Online Banking" required
+                                class="form-check-input">
+                            <label for="onlineBanking" class="form-check-label">Online Banking</label>
+                        </div>
+                        <div class="form-check title wow fadeInUp" data-wow-delay="0.9s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                            <input type="checkbox" id="loan" name="service[]" value="Loan" required
+                                class="form-check-input">
+                            <label for="loan" class="form-check-label">Loan</label>
+                        </div>
 
                         <p>
                         </p>
@@ -189,9 +194,11 @@ require_once('components/header.php') ?>
                                         </select>
                                     </div>
                                 </div>
-                                <button class="btn btn-primary m-4" type="submit">SUBMIT</button>
                             </div>
                         </form>
+                        <div class="text-right">
+                            <button class="btn btn-primary m-6 mt-4" type="submit">SUBMIT</button>
+                        </div>
 
                         <p></p>
                     </div>
@@ -199,17 +206,18 @@ require_once('components/header.php') ?>
                     <div class="col-lg-4">
                         <div class="grid-item">
                             <div class="cnt-box cnt-box-top-icon boxed"
-                                style="box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15); transition: all .5s; background-color: rgb(255, 255, 255); border-radius: 3px; position: relative; overflow: hidden; margin-top: 20px;">
+                                style="box-shadow: 0 10px px rgba(0, 0, 0, 0.15); transition: all .5s; background-color: rgb(255, 255, 255); border-radius: 5px; position: relative; overflow: hidden; margin-top: 50px; padding: 100px">
                                 <i class="im-monitor-phone"></i>
                                 <div class="caption">
-                                    <h2 style="margin-top: 100px;">Great Rates!</h2>
+                                    <h2>Great Rates!</h2>
                                     <p>Great Rates!</p>
                                 </div>
                             </div>
 
 
                             <div class="grid-item">
-                                <div class="cnt-box cnt-box-top-icon boxed">
+                                <div class="cnt-box cnt-box-top-icon boxed"
+                                    style="box-shadow: 0 10px 10px rgba(0, 0, 0, 0.15); transition: all .5s; background-color: rgb(255, 255, 255); border-radius: 5px; position: relative; overflow: hidden; margin-top: 50px; padding: 100px">
                                     <i class="im-bar-chart2"></i>
                                     <div class="caption">
                                         <h2>Growing in Jonesboro</h2>
@@ -222,7 +230,8 @@ require_once('components/header.php') ?>
 
 
                             <div class="grid-item">
-                                <div class="cnt-box cnt-box-top-icon boxed">
+                                <div class="cnt-box cnt-box-top-icon boxed"
+                                    style="box-shadow: 0 10px 10px rgba(0, 0, 0, 0.15); transition: all .5s; background-color: rgb(255, 255, 255); border-radius: 5px; position: relative; overflow: hidden; margin-top: 50px; padding: 100px">
                                     <i class="im-bar-chart2"></i>
                                     <div class="caption">
                                         <h2>Stop. Think. Connect.</h2>
