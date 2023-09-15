@@ -12,10 +12,10 @@ require_once('components/header.php') ?>
                 <div class="row">
                     <div class="col-lg-7 mx-auto">
                         <div class="breadcrumb-content pt-100">
-                            <h1>Apply</h1>
+                            <h1>JUMPSTART APPLICATION.</h1>
                             <ul>
                                 <li><a href="http://localhost/BANKY/index">home</a></li>
-                                <li>Apply</li>
+                                <li>DEPOSIT SERVICES.</li>
                             </ul>
                         </div>
                     </div>

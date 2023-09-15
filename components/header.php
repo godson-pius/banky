@@ -107,7 +107,7 @@
                                     <li class="nav-item"><a class="nav-link" href="loan-officers">Loan Officers</a>
                                     <li class="nav-item"><a class="nav-link" href="credit-card">Credit Cards</a>
                                     <li class="nav-item"><a class="nav-link" href="job-post.html">Credit Card LOGIN</a>
-                                    <li class="nav-item"><a class="nav-link" href="lending-service-apply">Apply</a>
+                                    <li class="nav-item"><a class="nav-link" href="Apply">Apply</a>
                                     </li>
                                 </ul>
                             </li>

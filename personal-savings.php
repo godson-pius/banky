@@ -35,7 +35,7 @@ require_once('components/header.php');
       <section class="bank-app-showcase-area bg-white">
         <div class="container">
           <h3 class="font-weight-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
-            data-wow-delay="0.9s">Earn, Grow, Save!</h3>
+            data-wow-delay="0.3s">Earn, Grow, Save!</h3>
 
           <div class="row align-items-center flex-row-reverse">
             <div class="col-lg-6 offset-lg-1">
@@ -167,7 +167,7 @@ require_once('components/header.php');
             while taking advantage of tax savings. If you qualify, then an HSA offers these benefits:
           </p>
 
-          <ul class="title wow fadeInUp" data-wow-delay="0.9s"
+          <ul class="title wow fadeInUp" data-wow-delay="0.3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
             <li><i class="fas fa-check-circle" style="color: blue; line-height: 40px"></i> Tax-deductible contributions
               and distributions</li>
@@ -196,10 +196,10 @@ require_once('components/header.php');
             <li><i class="fas fa-check-circle" style="color: blue; line-height: 40px"></i> Cannot be enrolled in
               Medicare, and</li>
             <li><i class="fas fa-check-circle" style="color: blue; line-height: 40px"></i> Cannot be eligible to be
-              claimed as a dependent on another person’s tax return.</li>
+              claimed as a dependent on another person&apos;s tax return.</li>
           </ul>
 
-          <p class="title wow fadeInUp" data-wow-delay="0.9s"
+          <p class="title wow fadeInUp" data-wow-delay="0.3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
             At Royal Union Bank, a Health Savings Account may be opened with a minimum deposit of only $100. We
             offer
@@ -225,7 +225,7 @@ require_once('components/header.php');
           </h3>
 
           <p class="title wow fadeInUp" data-wow-delay="0.9s"
-            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103);25px; margin-bottom: 20px;">
+            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103);margin-bottom: 20px;">
             The following applies to all interest-bearing accounts listed on this schedule of fees and services. The
             interest
             rate and *Annual Percentage Yield (*APY) are subject to change weekly.
