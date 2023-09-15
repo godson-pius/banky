@@ -122,8 +122,8 @@
                                     <li class="nav-item"><a class="nav-link" href="First Take.php">First Take</a></li>
                                     <li class="nav-item"><a class="nav-link" href="Online Banking.php">Online Banking</a></li>
                                     <li class="nav-item"><a class="nav-link" href="Apply for Online Banking.php">Apply for Online Banking</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="Mobile Wallet - Learn More.php">Mobile Wallet - Learn More</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="Debit Card . ID Safety.php">Debit Card / ID Safety</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Mobile Wallet.php">Mobile Wallet - Learn More</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="Debit Card.php">Debit Card / ID Safety</a></li>
                                     <li class="nav-item"><a class="nav-link" href="Additional Services.php">Additional Services</a></li>
                                     <li class="nav-item"><a class="nav-link" href="Telephone Banking.php">Telephone Banking</a></li>
                                     <li class="nav-item"><a class="nav-link" href="Security.php">Security</a></li>
