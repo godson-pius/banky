@@ -34,25 +34,22 @@ require_once('components/header.php');
       <!-- Start writing code from here -->
       <section class="bank-app-showcase-area bg-white">
         <div class="container">
-<<<<<<< HEAD
-          <h3 class="font-weight-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103); font-weight:bold"
-            data-wow-delay="0.9s">Earn, Grow, Save!</h3>
-=======
+
+
           <h3 class="fw-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
             data-wow-delay="0.3s">Earn, Grow, Save!</h3>
->>>>>>> 5f0a63c301e64ab90080472879c22cf28cfa8f3f
+
 
           <div class="row align-items-center flex-row-reverse">
             <div class="col-lg-6 offset-lg-1">
               <div class="app-content">
                 <div class="section-title bank-section-title text-start">
-<<<<<<< HEAD
+
                   <p class="title wow fadeInUp" data-wow-delay="0.9s"
                     style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
-=======
                   <p class="title wow fadeInUp" data-wow-delay="0.3s"
-                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
->>>>>>> 5f0a63c301e64ab90080472879c22cf28cfa8f3f
+                    style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
+
                     You've earned it. Now watch it grow! These FDIC insured accounts pay competitive
                     yields on your savings. Your money will be available should you need it, and
                     until then, your funds will be growing and working here in our community.
@@ -64,13 +61,11 @@ require_once('components/header.php');
               <img class="img-fluid mb-4" src="https://www.horizontrustco.com/media/box-3.png" alt="Bank Image">
             </div>
           </div>
-<<<<<<< HEAD
-          <h3 class="mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103); font-weight:bold"
-            data-wow-delay="0.9s">Regular Savings</h3>
-=======
+
+       
           <h3 class="fw-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
             data-wow-delay="0.3s">Regular Savings</h3>
->>>>>>> 5f0a63c301e64ab90080472879c22cf28cfa8f3f
+
           <p class="title wow fadeInUp" data-wow-delay="0.9s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
             Pay yourself as regularly as you are paid. Begin saving every payday in a Regular Savings Account at SAPB.
@@ -94,8 +89,8 @@ require_once('components/header.php');
               account statement</li>
             <li><i class="fas fa-check-circle" ; style="color : blue"></i> Minimum opening deposit of $10 required</li>
           </ul>
-          <h3 class="font-weight-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
-            data-wow-delay="0.9s">Working Money Account</h3>
+          <h3 class="fw-bold mt-5 mb-3 title wow fadeInUp" style="color: rgb(0, 71, 103);"
+            data-wow-delay="0.3s">Working Money Account</h3>
           <p class="title wow fadeInUp" data-wow-delay="0.9s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
             The Working Money Account is a competitive variable rate account with 4 tiered balance levels. A higher
@@ -146,13 +141,13 @@ require_once('components/header.php');
             pay the penalty on just the amount withdrawn.
           </p>
 
-<<<<<<< HEAD
+
           <p class="title wow fadeInUp" data-wow-delay="0.9s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
-=======
+
           <p class="title wow fadeInUp" data-wow-delay="0.3s"
-            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
->>>>>>> 5f0a63c301e64ab90080472879c22cf28cfa8f3f
+            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
+
             For complete details or to invest in a CD, come in and see a Customer Service Representative at one of our
             local branches or call info@horizontrustco.com. View current rates and terms of CDs.
           </p>
@@ -181,24 +176,18 @@ require_once('components/header.php');
             data-wow-delay="0.9s">Health Savings Account (HSA)</h3>
 
           <p class="title wow fadeInUp" data-wow-delay="0.9s"
-<<<<<<< HEAD
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
             A Health Savings Account (HSA) from Horizon Trustco Bank is a great way to save for your health care
-=======
-            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
-            A Health Savings Account (HSA) from Royal Union Bank is a great way to save for your health care
->>>>>>> 5f0a63c301e64ab90080472879c22cf28cfa8f3f
             expenses
             while taking advantage of tax savings. If you qualify, then an HSA offers these benefits:
           </p>
 
-<<<<<<< HEAD
+
           <ul class="title wow fadeInUp" data-wow-delay="0.9s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
-=======
+
           <ul class="title wow fadeInUp" data-wow-delay="0.3s"
-            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
->>>>>>> 5f0a63c301e64ab90080472879c22cf28cfa8f3f
+            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;margin-top: 25px; margin-bottom: 20px;">
             <li><i class="fas fa-check-circle" style="color: blue; line-height: 40px"></i> Tax-deductible contributions
               and distributions</li>
             <li><i class="fas fa-check-circle" style="color: blue; line-height: 40px"></i> Owned by the individual</li>
@@ -230,15 +219,15 @@ require_once('components/header.php');
               claimed as a dependent on another person&apos;s tax return.</li>
           </ul>
 
-<<<<<<< HEAD
+
           <p class="title wow fadeInUp" data-wow-delay="0.9s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;   margin-top: 25px; margin-bottom: 20px;">
             At Horizon Trustco Bank, a Health Savings Account may be opened with a minimum deposit of only $100. We
-=======
+
           <p class="title wow fadeInUp" data-wow-delay="0.3s"
-            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103); margin-top: 25px; margin-bottom: 20px;">
+            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
             At Royal Union Bank, a Health Savings Account may be opened with a minimum deposit of only $100. We
->>>>>>> 5f0a63c301e64ab90080472879c22cf28cfa8f3f
+
             offer
             both Self-only and Family coverage plans. A Free Instant Issue Debit MasterCard or personalized checks may
             be
@@ -250,7 +239,7 @@ require_once('components/header.php');
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px;  margin-top: 25px; margin-bottom: 20px;">
             For more information about an HSA account, please contact one of our Customer Service Representatives. You
             should also consult with your health care insurance provider to see if you qualify and with your tax
-            professional for tax compliance advice. Royal Union Bank does not sell health insurance directly to the
+            professional for tax compliance advice. Royal Union Bank does not sell health insurance directly to the   
             public or provide advice on health coverage. Royal Union Bank does not provide tax preparation service
             or
             advice on tax matters.
@@ -262,11 +251,9 @@ require_once('components/header.php');
           </h3>
 
           <p class="title wow fadeInUp" data-wow-delay="0.9s"
-<<<<<<< HEAD
+
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; 25px; margin-bottom: 20px;">
-=======
-            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 16px; line-height: 40px; color: rgb(0, 71, 103);margin-bottom: 20px;">
->>>>>>> 5f0a63c301e64ab90080472879c22cf28cfa8f3f
+
             The following applies to all interest-bearing accounts listed on this schedule of fees and services. The
             interest
             rate and *Annual Percentage Yield (*APY) are subject to change weekly.
