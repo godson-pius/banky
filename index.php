@@ -369,7 +369,7 @@
         </section>
         <!-- saas map area  -->
 
-        <section class="calculator-area-three">
+        <!-- <section class="calculator-area-three">
             <div class="container">
                 <div class="section-title bank-section-title mb-80">
                     <span class="short-title-2">Loan Calculator</span>
@@ -493,7 +493,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- saas-clients-logo start-->
         <section class="saas-clients-logo bg-white pt-100">
             <div class="container">

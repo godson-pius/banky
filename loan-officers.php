@@ -47,10 +47,10 @@ require_once('components/header.php') ?>
                     <div class="single-leadership-widget wow fadeInUp col" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                         <div class="workers">
                             <a href="#">
-                                <img src="img/leadership/img-1.png" alt="leader-1">
+                                <img src="https://horizontrustco.com/media/user-1.jpg" alt="">
                                 <div class="leader-info">
-                                    <h5>Eldridge Robles</h5>
-                                    <p>Co-Founder, Conis</p>
+                                    <h5>DONALD CORT</h5>
+                                    <p>Social Media</p>
                                 </div>
                             </a>
                         </div>
@@ -61,10 +61,10 @@ require_once('components/header.php') ?>
                     <div class="single-leadership-widget wow fadeInUp col" data-wow-delay="0.1s" style="visibility: visible;   animation-delay: 0.1s; animation-name:    fadeInUp;">
                         <div class="workers">
                             <a href="#">
-                                <img src="img/leadership/img-1.png" alt="leader-1">
+                                <img src="https://horizontrustco.com/media/user-2.jpg" alt="">
                                 <div class="leader-info">
-                                    <h5>Eldridge Robles</h5>
-                                    <p>Co-Founder, Conis</p>
+                                    <h5>ALICIA SANDRA</h5>
+                                    <p>Engineer</p>
                                 </div>
                             </a>
                         </div>
@@ -73,10 +73,10 @@ require_once('components/header.php') ?>
                     <div class="single-leadership-widget wow fadeInUp col" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                         <div class="workers">
                             <a href="#">
-                                <img src="img/leadership/img-1.png" alt="leader-1">
+                                <img src="https://horizontrustco.com/media/square-1.jpg" alt="">
                                 <div class="leader-info">
-                                    <h5>Eldridge Robles</h5>
-                                    <p>Co-Founder, Conis</p>
+                                    <h5>Frank Vicent</h5>
+                                    <p>Marketing</p>
                                 </div>
                             </a>
                         </div>
@@ -84,15 +84,15 @@ require_once('components/header.php') ?>
                 </div>
 
 
-                <div class="row">
+                <!-- <div class="row">
 
-                    <div class="single-leadership-widget wow fadeInUp col" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                    <div class="single-leadership-widget wow fadeInUp col" data-wow-delay="0.1s" style="visibility: visible;   animation-delay: 0.1s; animation-name:    fadeInUp;">
                         <div class="workers">
                             <a href="#">
-                                <img src="img/leadership/img-1.png" alt="leader-1">
+                                <img src="https://horizontrustco.com/media/user-2.jpg" alt="">
                                 <div class="leader-info">
-                                    <h5>Eldridge Robles</h5>
-                                    <p>Co-Founder, Conis</p>
+                                    <h5>ALICIA SANDRA</h5>
+                                    <p>Engineer</p>
                                 </div>
                             </a>
                         </div>
@@ -102,28 +102,29 @@ require_once('components/header.php') ?>
                     <div class="single-leadership-widget wow fadeInUp col" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                         <div class="workers">
                             <a href="#">
-                                <img src="img/leadership/img-1.png" alt="leader-1">
+                                <img src="https://horizontrustco.com/media/user-1.jpg" alt="">
                                 <div class="leader-info">
-                                    <h5>Eldridge Robles</h5>
-                                    <p>Co-Founder, Conis</p>
+                                    <h5>DONALD CORT</h5>
+                                    <p>Social Media</p>
                                 </div>
                             </a>
                         </div>
                     </div>
+
 
                     <div class="single-leadership-widget wow fadeInUp col" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                         <div class="workers">
                             <a href="#">
-                                <img src="img/leadership/img-1.png" alt="leader-1">
+                                <img src="https://horizontrustco.com/media/square-1.jpg" alt="">
                                 <div class="leader-info">
-                                    <h5>Eldridge Robles</h5>
-                                    <p>Co-Founder, Conis</p>
+                                    <h5>Frank Vicent</h5>
+                                    <p>Marketing</p>
                                 </div>
                             </a>
                         </div>
                     </div>
 
-                </div>
+                </div> -->
             </div>
         </section>
     </main>
