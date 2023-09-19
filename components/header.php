@@ -24,6 +24,7 @@
     <link rel="stylesheet" type="text/css" href="css/default.css" media="all" />
     <link rel="stylesheet" type="text/css" href="css/style.css" media="all" />
     <link rel="stylesheet" type="text/css" href="css/responsive.css" media="all" />
+
 </head>
 
 <body>
@@ -73,7 +74,7 @@
                             </li>
 
                             <li class="nav-item dropdown submenu">
-                                <a class="nav-link dropdown-toggle" href="loan.html" role="button"
+                                <a class="nav-link dropdown-toggle" href="" role="button"
                                     data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     Deposit Services
                                 </a>
@@ -93,7 +94,7 @@
                                 </ul>
                             </li>
                             <li class="nav-item dropdown submenu">
-                                <a class="nav-link dropdown-toggle" href="#" role="button"
+                                <a class="nav-link dropdown-toggle" href="" role="button"
                                     data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     Lending Services
                                 </a>
@@ -103,7 +104,7 @@
                                     <li class="nav-item"><a class="nav-link" href="personal-loans">Personal Loans</a></li>
                                     <li class="nav-item"><a class="nav-link" href="Business-loans">Business Loans</a>
                                     <li class="nav-item"><a class="nav-link" href="mortgage-loans">Mortgage Loans</a>
-                                    <li class="nav-item"><a class="nav-link" href="#">Agricultural Loans</a>
+                                    <li class="nav-item"><a class="nav-link" href="">Agricultural Loans</a>
                                     <li class="nav-item"><a class="nav-link" href="loan-officers">Loan Officers</a>
                                     <li class="nav-item"><a class="nav-link" href="credit-card">Credit Cards</a>
                                     <li class="nav-item"><a class="nav-link" href="job-post.html">Credit Card LOGIN</a>
@@ -112,7 +113,7 @@
                                 </ul>
                             </li>
                             <li class="nav-item dropdown submenu">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                <a class="nav-link dropdown-toggle" href="" role="button" data-bs-toggle="dropdown"
                                     aria-haspopup="true" aria-expanded="false">
                                     Resources
                                 </a>
@@ -131,7 +132,7 @@
                                 </ul>
                             </li>
                             <li class="nav-item dropdown submenu">
-                                <a class="nav-link dropdown-toggle" href="#" role="button"
+                                <a class="nav-link dropdown-toggle" href="" role="button"
                                     data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     Get In Touch
                                 </a>
@@ -150,9 +151,9 @@
                                 </ul>
                             </li>
                         </ul>
-                        <!-- <a class="theme-btn theme-btn-rounded-2 theme-btn-alt"
+                        <a class="theme-btn theme-btn-rounded-2 theme-btn-alt"
                             href="https://themeforest.net/item/royal Union-banking-business-loan-bootstrap5html-website-template/32788885?s_rank=9"
-                            target="_blank">Buy Royal Union</a> -->
+                            target="_blank">Login</a>
                         <div class="px-2 js-darkmode-btn" title="Toggle dark mode">
                             <label for="something" class="tab-btn tab-btns">
                                 <ion-icon name="moon"></ion-icon>

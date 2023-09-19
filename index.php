@@ -533,7 +533,7 @@
                                 <h2>Try it for free</h2>
                                 <p>Choose your training and register for free. If you are a freelancer, the courses are
                                     entirely taken care.</p>
-                                <a href="#" class="wow fadeInUp theme-btn theme-btn-lg">Get started now <i
+                                <a href="user" class="wow fadeInUp theme-btn theme-btn-lg">Get started now <i
                                         class="arrow_right-up"></i></a>
                             </div>
                         </div>

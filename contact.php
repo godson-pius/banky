@@ -319,7 +319,7 @@ require_once('components/header.php') ?>
 
                             <div class="col-lg-5 mt-4 mt-lg-0 text-center ">
                                 <div class="cta-content  text-center text-lg-end">
-                                    <a href="#" class="theme-btn theme-btn-alt wow fadeInLeft cta-text-violet">Open
+                                    <a href="user" class="theme-btn theme-btn-alt wow fadeInLeft cta-text-violet">Open
                                         an Account</a>
                                 </div>
                             </div>

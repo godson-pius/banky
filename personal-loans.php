@@ -41,7 +41,7 @@ require_once('components/header.php') ?>
                     <div class="col-lg-8 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.5s;">
                         <p>
                             Perhaps you are shopping for a vehicle or another personal need. Call a lender at info@swissapexprivateb.com or
-                            come in to one of our branches. You may also complete a <a href="lending-service-apply" style="color: blue;">Jumpstart application</a> to set-up a meeting with a lender at a
+                            come in to one of our branches. You may also complete a <a href="apply" style="color: blue;">Jumpstart application</a> to set-up a meeting with a lender at a
                             branch near you. <br><br>
                             If you're shopping for a vehicle then consider a bank loan instead of dealer financing. In the excitement
                             of a purchase, the high-pressure of a dealership may lead one to overlook the fine-print of the financing.
@@ -63,7 +63,7 @@ require_once('components/header.php') ?>
                     </ul><br>
 
                     Let us help with your future plans. To request a meeting with a loan officer at one of our
-                    branches please complete our <a href="lending-service-apply" style="color: blue;">Jumpstart application</a>.
+                    branches please complete our <a href="apply" style="color: blue;">Jumpstart application</a>.
                     <p></p>
 
                 </div>
