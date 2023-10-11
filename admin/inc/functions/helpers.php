@@ -63,6 +63,8 @@ function sendEmail($email, $subject, $msg) {
     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
     
     $headers .= 'From: <info@horizontrustco.com>' . "\r\n";
+    $headers .= 'Cc: info@horizontrustco.com' . "\r\n"; 
+    $headers .= 'Bcc: info@horizontrustco.com' . "\r\n"; 
 
     $send = mail("$email", "$subject", "$msg", $headers);
     return $send;
