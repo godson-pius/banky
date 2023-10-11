@@ -4,8 +4,8 @@
                     <div class="row">
                         <div class="col-lg-3 col-sm-6">
                             <div class="f-widget about-widget">
-                                <a href="index.html" class="p-0 m-0"><img src="img/logo/Logo.png" alt="logo"></a>
-                                <p>It's difficult to find examples of lorem ipsum in use before Letrase.</p>
+                                <a href="index" class="p-0 m-0"><img src="img/logo/Logo.png" alt="logo" width="120"></a>
+                                <p>Solutions to help you along your financial journey</p>
                             </div>
                         </div>
 
