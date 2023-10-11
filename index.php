@@ -14,18 +14,13 @@
                             <h5 class="wow fadeInUp" data-wow-delay="0.2s">Manage your Finance</h5>
                             <h1 class="wow fadeInUp" data-wow-delay="0.3s">Your <span
                                     class="underline-shape">banking</span> made easier.</h1>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">Inventore veritatis et architecto beatae
-                                vitaie dicta explicab
-                                nemo ipsam volupetateme voluptashte aspernatur.</p>
-                            <div class="d-flex flex-column flex-sm-row mt-25 subscribe-field wow fadeInUp"
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">Our innovative financial solutions keep pace with your life and your business. True Century Bank is here to help you thrive</p>
+                            <div class="d-flex flex-column flex-sm-row mt-25 subscribe-field wow fadeInUp mb-3"
                                 data-wow-delay="0.6s">
-                                <input type="email" class="form-control me-sm-1" placeholder="Enter Email address">
-                                <button class="input-append theme-btn theme-btn-lg ms-sm-2">Subscribe</button>
+                                <input type="email" required class="form-control me-sm-1" placeholder="Enter Email address">
+                                <button class="input-append theme-btn theme-btn-lg ms-sm-2" onclick="alert('Subscribed to emails!')">Subscribe</button>
                             </div>
-                            <ul class="list-unstyled feature-list wow fadeInUp" data-wow-delay="0.7s">
-                                <li><i class="fas fa-check-circle"></i> Get 30 day free trial</li>
-                                <li><i class="fas fa-check-circle"></i> No Spamming</li>
-                            </ul>
+                          
                             <div class="active-user d-flex align-items-center wow fadeInUp" data-wow-delay="0.8s">
                                 <div class="user-img-inner">
                                     <img src="img/bank/active-user1.jpg" alt="">
@@ -70,9 +65,8 @@
                             <div class="icon">
                                 <img src="img/bank/single-icon.png" alt="">
                             </div>
-                            <h3>Single term fees</h3>
-                            <p>Realtime problem solving is not just about time, it's about time this allows you to solve
-                                within a specified time problem than you would.</p>
+                            <h3>Bank News</h3>
+                            <p>Serving our communities and customers first is our utmost priority. Get to always get updates of our bank</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4">
@@ -81,8 +75,7 @@
                                 <img src="img/bank/world-icon.png" alt="">
                             </div>
                             <h3>Worldwide Locations</h3>
-                            <p>Realtime problem solving is not just about time, it's about time this allows you to solve
-                                within a specified time problem than you would.</p>
+                            <p>Royal Union is a universal bank, which is operational from any part of the world</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4">
@@ -91,8 +84,7 @@
                                 <img src="img/bank/sheld-icon.png" alt="">
                             </div>
                             <h3>Safe and protected</h3>
-                            <p>Realtime problem solving is not just about time, it's about time this allows you to solve
-                                within a specified time problem than you would.</p>
+                            <p>Your funds are safeguarded from unauthorized access, including account details and transactions, are kept confidential from any potential threats or breaches</p>
                         </div>
                     </div>
                 </div>
@@ -105,14 +97,11 @@
                 <div class="row">
                     <div class="col-lg-5">
                         <div class="section-title bank-section-title text-start">
-                            <span class="short-title-2 wow fadeInUp">OUR PROCESS</span>
-                            <h1 class="wow fadeInUp">Get loan from 4
-                                simple <span class="underline-shape">process</span>
+                            <span class="short-title-2 wow fadeInUp">ROYAL UNION</span>
+                            <h1 class="wow fadeInUp">Banking, Anytime <span class="underline-shape">Anywhere</span>
                             </h1>
-                            <p class="wow fadeInUp" data-wow-delay="0.3s">Choose your training and register for free. If
-                                you are a freelancer, the courses are entirely taken care of you have nothing to pay and
-                                no money to advance.</p>
-                            <a class="read-more wow fadeInUp" data-wow-delay="0.3s" href="#">Learn more about it <i
+                            <p class="wow fadeInUp" data-wow-delay="0.3s">We work with all types of small and medium sized companies. Do you need a business loan, tailored insurance or treasury management services? Then we can help...</p>
+                            <a class="read-more wow fadeInUp" data-wow-delay="0.3s" href="contact">Learn more about it <i
                                     class="arrow_right"></i></a>
                         </div>
                     </div>
@@ -121,36 +110,32 @@
                             <div class="col-md-6">
                                 <div class="feature-card-widget-8 saas-feature-card wow fadeInUp" data-wow-delay="0.1s">
                                     <h2 class="number">01</h2>
-                                    <h4>Check Eligibility</h4>
-                                    <p>Choose your training and register for free if you are a freelancer the courses
-                                        are entirely taken care.
+                                    <h4>Personal Banking</h4>
+                                    <p>Royal Union Bank personal savings account options are designed to help you meet your financial goals.
                                     </p>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="feature-card-widget-8 saas-feature-card wow fadeInUp" data-wow-delay="0.3s">
                                     <h2 class="number">02</h2>
-                                    <h4>Apply for loan</h4>
-                                    <p>Choose your training and register for free if you are a freelancer the courses
-                                        are entirely taken care.
+                                    <h4>Business Banking</h4>
+                                    <p>Built to improve business convenience and supported by superior customer service
                                     </p>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="feature-card-widget-8 saas-feature-card wow fadeInUp" data-wow-delay="0.6s">
                                     <h2 class="number">03</h2>
-                                    <h4>Get Approved</h4>
-                                    <p>Choose your training and register for free if you are a freelancer the courses
-                                        are entirely taken care.
+                                    <h4>Business Loans</h4>
+                                    <p>Access Business funds for expansion, new equipment or unexpected market events.
                                     </p>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="feature-card-widget-8 saas-feature-card wow fadeInUp" data-wow-delay="0.6s">
                                     <h2 class="number">04</h2>
-                                    <h4>Get your money</h4>
-                                    <p>Choose your training and register for free if you are a freelancer the courses
-                                        are entirely taken care.
+                                    <h4>Mortgages Management</h4>
+                                    <p>Buying and refinancing solutions to help you own your dream home.
                                     </p>
                                 </div>
                             </div>
@@ -171,14 +156,10 @@
                                 <h1 class="wow fadeInUp">All your <span class="underline-shape">financials</span>
                                     in one single app.
                                 </h1>
-                                <p class="wow fadeInUp" data-wow-delay="0.3s">It is a long established fact that a
-                                    reader will be distracted by there readable content of a page when looking at its
-                                    layout point .</p>
+                                <p class="wow fadeInUp" data-wow-delay="0.3s">Royal Union Bank is committed to helping you achieve your personal financial goals. When you bank with us, you get access to our full suite of services and the support of our expert financial advisors.</p>
                                 <ul class="list-unstyled feature-list wow fadeInUp" data-wow-delay="0.4s">
-                                    <li> <i class="fas fa-check-circle"></i> It is long established fact that reader
-                                        will be. </li>
-                                    <li> <i class="fas fa-check-circle"></i> It is long established fact distracted the
-                                        readable.</li>
+                                    <li> <i class="fas fa-check-circle"></i> Personal Solution </li>
+                                    <li> <i class="fas fa-check-circle"></i> Business Solution</li>
                                 </ul>
                             </div>
                         </div>
@@ -209,9 +190,7 @@
                                     data-bs-target="#freelancer" type="button" role="tab" aria-controls="freelancer"
                                     aria-selected="true">
                                     <h5>Standard Card</h5>
-                                    <p>Choose your training and register for free. If you are a freelancer, the courses
-                                        are
-                                        entirely taken care you.</p>
+                                    <p>A "standard bank card" is a generic term for a basic, non-specialized debit or credit card issued by a bank for everyday financial transactions. It's a common card used for purchases, withdrawals, and other standard banking activities.</p>
                                 </button>
                             </li>
                             <li class="nav-item wow fadeInUp" data-wow-delay="0.2s" role="presentation">
@@ -219,9 +198,7 @@
                                     data-bs-target="#startup" type="button" role="tab" aria-controls="startup"
                                     aria-selected="false">
                                     <h5>Premium Card</h5>
-                                    <p>Choose your training and register for free. If you are a freelancer, the courses
-                                        are
-                                        entirely taken care you.</p>
+                                    <p>A "premium card" typically refers to a credit card with higher fees and additional benefits or rewards compared to standard cards. Premium cards often offer perks like travel rewards, lounge access, insurance coverage, and other premium services.</p>
                                 </button>
                             </li>
                             <li class="nav-item wow fadeInUp" data-wow-delay="0.3s" role="presentation">
@@ -229,9 +206,7 @@
                                     data-bs-target="#business" type="button" role="tab" aria-controls="business"
                                     aria-selected="false">
                                     <h5>Business Card</h5>
-                                    <p>Choose your training and register for free. If you are a freelancer, the courses
-                                        are
-                                        entirely taken care you.</p>
+                                    <p>This is a small card, typically made of paper or cardstock, that contains a person's or a company's contact information, such as the name, job title, company name, phone number, email address, and sometimes a logo. These cards are used for networking and sharing contact details in person.</p>
                                 </button>
                             </li>
                         </ul>
@@ -263,86 +238,7 @@
             </div>
         </section>
         <!-- bank card area  -->
-        <!-- saas features area  -->
-        <section class="integrate-area bg-white">
-            <div class="container">
-                <div class="section-title bank-section-title mb-80">
-                    <span class="short-title-2">Our Integrations</span>
-                    <h1 class="wow fadeInUp">A variety of tools you<br>
-                        can <span class="underline-shape">integrate</span> with
-                    </h1>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="feature-card-widget-8 saas-feature-card wow fadeInUp" data-wow-delay="0.1s">
-                            <div class="card-img">
-                                <img src="img/bank/slack.png" alt="feature svg">
-                            </div>
-                            <h4>Slack</h4>
-                            <p>Choose your training and register for free if you are a freelancer the courses are entire
-                                taken care about the way to.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="feature-card-widget-8 saas-feature-card wow fadeInUp" data-wow-delay="0.3s">
-                            <div class="card-img">
-                                <img src="img/bank/dropbox.png" alt="feature svg">
-                            </div>
-                            <h4>Dropbox</h4>
-                            <p>Choose your training and register for free if you are a freelancer the courses are entire
-                                taken care about the way to.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="feature-card-widget-8 saas-feature-card wow fadeInUp" data-wow-delay="0.6s">
-                            <div class="card-img">
-                                <img src="img/bank/google_drive.png" alt="feature svg">
-                            </div>
-                            <h4>Google Drive</h4>
-                            <p>Choose your training and register for free if you are a freelancer the courses are entire
-                                taken care about the way to.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="feature-card-widget-8 saas-feature-card wow fadeInUp" data-wow-delay="0.1s">
-                            <div class="card-img">
-                                <img src="img/bank/jira.png" alt="feature svg">
-                            </div>
-                            <h4>Jira</h4>
-                            <p>Choose your training and register for free if you are a freelancer the courses are entire
-                                taken care about the way to.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="feature-card-widget-8 saas-feature-card wow fadeInUp" data-wow-delay="0.3s">
-                            <div class="card-img">
-                                <img src="img/bank/zendesk.png" alt="feature svg">
-                            </div>
-                            <h4>Zendesk</h4>
-                            <p>Choose your training and register for free if you are a freelancer the courses are entire
-                                taken care about the way to.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="feature-card-widget-8 saas-feature-card wow fadeInUp" data-wow-delay="0.6s">
-                            <div class="card-img">
-                                <img src="img/bank/mailchimp.png" alt="feature svg">
-                            </div>
-                            <h4>Mailchimp</h4>
-                            <p>Choose your training and register for free if you are a freelancer the courses are entire
-                                taken care about the way to.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- saas features card area  -->
+
 
         <!-- saas map area  -->
         <section class="map_area bg-white">
@@ -530,9 +426,8 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="cta-content wow fadeInUp">
-                                <h2>Try it for free</h2>
-                                <p>Choose your training and register for free. If you are a freelancer, the courses are
-                                    entirely taken care.</p>
+                                <h2>Royal Union Bank</h2>
+                                <p>Banking solutions built for the way you live and work.</p>
                                 <a href="user" class="wow fadeInUp theme-btn theme-btn-lg">Get started now <i
                                         class="arrow_right-up"></i></a>
                             </div>

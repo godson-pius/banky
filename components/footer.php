@@ -2,56 +2,48 @@
             <div class="container">
                 <div class="footer_top">
                     <div class="row">
-                        <div class="col-lg-4 col-sm-6">
+                        <div class="col-lg-3 col-sm-6">
                             <div class="f-widget about-widget">
                                 <a href="index.html" class="p-0 m-0"><img src="img/logo/Logo.png" alt="logo"></a>
                                 <p>It's difficult to find examples of lorem ipsum in use before Letrase.</p>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-sm-6">
+
+                        <div class="col-lg-3 col-sm-6">
                             <div class="f-widget link-widget">
                                 <h4 class="f-widget-title">Company</h4>
                                 <ul class="footer-link">
-                                    <li><a href="#">Pricing</a></li>
-                                    <li><a href="#">Account Information</a></li>
-                                    <li><a href="#">About</a></li>
-                                    <li><a href="#">Contact us</a></li>
+                                <li><a href="contact">About us</a></li>
+                                    <li><a href="contact">Contact us</a></li>
+                                    <li><a href="contact">Location and Hours</a></li>
+                                    <li><a href="contact">Bank News</a>
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-sm-6">
+
+                        <div class="col-lg-3 col-sm-6">
                             <div class="f-widget link-widget">
-                                <h4 class="f-widget-title">Resources</h4>
+                                <h4 class="f-widget-title">Deposit Services</h4>
                                 <ul class="footer-link">
-                                    <li><a href="#">News</a></li>
-                                    <li><a href="#">Blog</a></li>
-                                    <li><a href="#">Help Center</a></li>
-                                    <li><a href="#">Tutorials</a></li>
+                                <li><a href="personal-checking">Checkings</a></li>
+                                    <li><a href="personal-savings">Savings</a></li>
+                                    <li><a href="Business Checking">Business Checkings and Savings</a></li>
+                                    <li><a href="Retail Banking">Retail Banking</a></li>
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-sm-6">
+                        <div class="col-lg-3 col-sm-6">
                             <div class="f-widget link-widget">
-                                <h4 class="f-widget-title">Design Online</h4>
+                                <h4 class="f-widget-title">Business Banking</h4>
                                 <ul class="footer-link">
-                                    <li><a href="#">Logo Maker</a></li>
-                                    <li><a href="#">Cover Photo Maker</a></li>
-                                    <li><a href="#">Banner Maker</a></li>
-                                    <li><a href="#">Branded Templates</a></li>
+                                <li><a href="personal-loans">Personal Loans</a></li>
+                                    <li><a href="Business-loans">Business Loans</a>
+                                    <li><a href="mortgage-loans">Mortgage Loans</a>
+                                    <li><a href="">Agricultural Loans</a>
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-sm-6">
-                            <div class="f-widget link-widget">
-                                <h4 class="f-widget-title">Tools</h4>
-                                <ul class="footer-link">
-                                    <li><a href="#">Templates</a></li>
-                                    <li><a href="#">PDF Editor</a></li>
-                                    <li><a href="#">Animator</a></li>
-                                    <li><a href="#">Image Resizer</a></li>
-                                </ul>
-                            </div>
-                        </div>
+                    
                     </div>
                 </div>
                 <div class="row align-items-center">

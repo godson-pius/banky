@@ -1,15 +1,15 @@
 <?php
 session_start();
 
-define("HOST", "localhost");
-define("USER", "root");
-define("PASSWORD", "");
-define("DBNAME", "royal");
-
 // define("HOST", "localhost");
 // define("USER", "root");
 // define("PASSWORD", "");
-// define("DBNAME", "horizon");
+// define("DBNAME", "royal");
+
+define("HOST", "localhost");
+define("USER", "anamcrke_royalunuion");
+define("PASSWORD", "royalunion100%");
+define("DBNAME", "anamcrke_royalunion");
 
 $link = mysqli_connect(HOST, USER, PASSWORD, DBNAME);
 

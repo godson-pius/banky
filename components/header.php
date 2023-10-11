@@ -152,18 +152,9 @@
                             </li>
                         </ul>
                         <a class="theme-btn theme-btn-rounded-2 theme-btn-alt"
-                            href="https://themeforest.net/item/royal Union-banking-business-loan-bootstrap5html-website-template/32788885?s_rank=9"
+                            href="user"
                             target="_blank">Login</a>
-                        <div class="px-2 js-darkmode-btn" title="Toggle dark mode">
-                            <label for="something" class="tab-btn tab-btns">
-                                <ion-icon name="moon"></ion-icon>
-                            </label>
-                            <label for="something" class="tab-btn">
-                                <ion-icon name="sunny"></ion-icon>
-                            </label>
-                            <label class=" ball" for="something"></label>
-                            <input type="checkbox" name="something" id="something" class="dark_mode_switcher">
-                        </div>
+                     
                     </div>
                 </div>
             </nav>
