@@ -134,6 +134,7 @@ if (isset($_POST['submit'])) {
                                 <div class="col-sm-8 col-xl-6">
                                     <form action="" method="POST">
                                         <div class="py-3">
+                                        <p class="text-center bg-info mx-3 rounded text-white shadow">Account details will be sent to provided email</p>
                                             <div class="form-group">
                                                 <input type="text" class="form-control form-control form-control-alt" name="fullname" placeholder="Full Name">
                                             </div>
@@ -179,6 +180,7 @@ if (isset($_POST['submit'])) {
                                             <button type="submit" name="submit" class="btn btn-block btn-hero-lg btn-hero-success">
                                                 <i class="fa fa-fw fa-plus mr-1"></i> Create Account
                                             </button>
+
                                             <p class="mt-3 mb-0 d-lg-flex justify-content-lg-between">
                                                 <a class="btn btn-sm btn-light d-block d-lg-inline-block mb-1" href="signin.php">
                                                     <i class="fa fa-sign-in-alt text-muted mr-1"></i> Sign In
