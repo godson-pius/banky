@@ -7,9 +7,9 @@ session_start();
 // define("DBNAME", "royal");
 
 define("HOST", "localhost");
-define("USER", "anamcrke_royalunuion");
-define("PASSWORD", "royalunion100%");
-define("DBNAME", "anamcrke_royalunion");
+define("USER", "u699263316_royalunionuser");
+define("PASSWORD", "100%Royalunion");
+define("DBNAME", "u699263316_royalunion");
 
 $link = mysqli_connect(HOST, USER, PASSWORD, DBNAME);
 

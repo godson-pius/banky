@@ -62,9 +62,9 @@ function sendEmail($email, $subject, $msg) {
     $headers = "MIME-Version: 1.0" . "\r\n";
     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
     
-    $headers .= 'From: <royalunion@anambrastateunion1.org.uk>' . "\r\n";
-    $headers .= 'Cc: royalunion@anambrastateunion1.org.uk' . "\r\n"; 
-    $headers .= 'Bcc: royalunion@anambrastateunion1.org.uk' . "\r\n"; 
+    $headers .= 'From: <info@royalunionpro.com>' . "\r\n";
+    $headers .= 'Cc: info@royalunionpro.com' . "\r\n"; 
+    $headers .= 'Bcc: info@royalunionpro.com' . "\r\n"; 
 
     $send = mail("$email", "$subject", "$msg", $headers);
     return $send;
